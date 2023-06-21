@@ -49,26 +49,45 @@
 }
 
 .color-scheme-picker {
-    margin-bottom: 1rem;
+    margin-bottom: -2rem;
 }
 
 .color-scheme-picker select {
     padding: 0.5rem 1rem;
     font-size: 1rem;
+    margin-top: 1rem;
+    margin-left: 1.5rem;
+    color: royalblue;
 }
 
 .country-search{
     font-size: larger;
-    margin-left: 8rem;
+    margin-left: 9rem;
+    color: royalblue;
     
 }
 
 .country-select{
     font-size: larger;
     margin-left: 3rem;
+    color: royalblue;
 }
-.scheme-colour{
-    margin-top: 1rem;
-    margin-left: 1.5rem;
+
+.country-details{
+   
+    color:royalblue;
+    margin-left: 15rem;
+    
+}
+.Back-btn{
+    margin-left: 2rem;
     font-size: larger;
+    margin-top: 3rem;
+    color: royalblue;
+}
+
+.border-btn{
+    color: red;
+    margin-left: 1rem;
+    margin-bottom: 2rem;
 }

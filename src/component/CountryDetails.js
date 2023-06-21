@@ -11,7 +11,7 @@ const CountryDetails = ({
 
   return (
     <div>
-      <button onClick={onBackClick}>Back</button>
+      <button className="Back-btn"onClick={onBackClick}>Back</button>
       <div className="country-details">
         <img src={flag} alt={name} className="country-flag" />
         <h2 className="country-name">{name}</h2>
@@ -27,7 +27,7 @@ const CountryDetails = ({
         <p>
           <strong>Borders:</strong>
           {borders.map((border) => (
-            <button
+            <button className="border-btn"
               key={border}
               onClick={() => onCountryClick(getCountryByCode(border))}
             >
