@@ -49,15 +49,15 @@
 }
 
 .color-scheme-picker {
-    margin-bottom: -2rem;
+    margin-bottom: 1rem;
 }
 
 .color-scheme-picker select {
     padding: 0.5rem 1rem;
     font-size: 1rem;
     margin-top: 1rem;
-    margin-left: 1.5rem;
-    color: royalblue;
+     margin-left: 1.5rem;
+     color: royalblue;
 }
 
 .country-search{
@@ -82,7 +82,7 @@
 .Back-btn{
     margin-left: 2rem;
     font-size: larger;
-    margin-top: 3rem;
+    margin-top: 4rem;
     color: royalblue;
 }
 
