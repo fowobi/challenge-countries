@@ -51,8 +51,8 @@
       "hr": "Afganistan",
       "fa": "افغانستان"
     },
-    "flag": "data:image/png;base64,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",
-    "regionalBlocs": [
+    "flag": "https://media.istockphoto.com/id/182404374/photo/flag-of-afghanistan-xxxl.webp?b=1&s=170667a&w=0&k=20&c=94QNhNn-c_8rCjiQovAXMXLtakgo6SP8LzfEWMp9Gzg=",
+     "regionalBlocs": [
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation",
@@ -102,7 +102,7 @@
       "hr": "Ålandski otoci",
       "fa": "جزایر الند"
     },
-    "flag": "https://restcountries.eu/data/ala.svg",
+    "flag": "https://media.istockphoto.com/id/604355488/photo/aland-island-flag.webp?b=1&s=170667a&w=0&k=20&c=9EfgbWG6XJCFYD8MOuIxN6bao7XlNTrGegVC4OEGz10=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -153,7 +153,7 @@
       "hr": "Albanija",
       "fa": "آلبانی"
     },
-    "flag": "https://restcountries.eu/data/alb.svg",
+    "flag": "https://media.istockphoto.com/id/1445012483/photo/render-of-the-albanian-flag-flutters-in-the-wind-close-up-the-national-flag-of-albanian.webp?b=1&s=170667a&w=0&k=20&c=HJnj6p86urv5mUvMrDHuv0TMp5VI2DK_VyJehnbEAdw=",
     "regionalBlocs": [
       {
         "acronym": "CEFTA",
@@ -206,7 +206,7 @@
       "hr": "Alžir",
       "fa": "الجزایر"
     },
-    "flag": "https://restcountries.eu/data/dza.svg",
+    "flag": "https://media.istockphoto.com/id/518647978/photo/algerian-flag.webp?b=1&s=170667a&w=0&k=20&c=8ivwGpO_ltxuD0drY8XbHMUpK57N7XNzpV4tuhkWxYo=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -281,7 +281,7 @@
       "hr": "Američka Samoa",
       "fa": "ساموآی آمریکا"
     },
-    "flag": "https://restcountries.eu/data/asm.svg",
+    "flag": "https://media.istockphoto.com/id/1552837529/photo/american-samoa-flag-on-the-flagpole.jpg?s=612x612&w=0&k=20&c=aYXlbKqbx2Mek7uMfFDyyQCqoJcJPxIIKM_j8mchMnM=",
     "regionalBlocs": [],
     "cioc": "ASA"
   },
@@ -325,7 +325,7 @@
       "hr": "Andora",
       "fa": "آندورا"
     },
-    "flag": "https://restcountries.eu/data/and.svg",
+    "flag": "https://media.istockphoto.com/id/1393460506/photo/andorran-flag-high-detail-highly-detailed-flag-of-andorra-national-flag-andorra-huge-size.webp?b=1&s=170667a&w=0&k=20&c=qQxW47dR1gIRcrqeYXZxHwxnWpGutYWbovqBbRpsHw0=",
     "regionalBlocs": [],
     "cioc": "AND"
   },
@@ -369,7 +369,7 @@
       "hr": "Angola",
       "fa": "آنگولا"
     },
-    "flag": "https://restcountries.eu/data/ago.svg",
+    "flag": "https://media.istockphoto.com/id/495273053/photo/angola-flag.webp?b=1&s=170667a&w=0&k=20&c=iZZAePhiPqzR2QOF3_wwmup608uU1Ml_CTNnCORBo0M=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -428,7 +428,7 @@
       "hr": "Angvila",
       "fa": "آنگویلا"
     },
-    "flag": "https://restcountries.eu/data/aia.svg",
+    "flag": "https://media.istockphoto.com/id/187012962/photo/anguilla.webp?b=1&s=170667a&w=0&k=20&c=wZKYgW0lJbblhozLLBh2jH6M09QlfeCz_MTCKBf3KXc=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -490,7 +490,7 @@
       "hr": "Antarktika",
       "fa": "جنوبگان"
     },
-    "flag": "https://restcountries.eu/data/ata.svg",
+    "flag": "https://media.istockphoto.com/id/98396941/photo/antarctica-national-flag.webp?b=1&s=170667a&w=0&k=20&c=BDsr4HS0MXbvMBkXCKHxir_zfJ49UvgkNr7QZzBqYps=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -536,7 +536,7 @@
       "hr": "Antigva i Barbuda",
       "fa": "آنتیگوا و باربودا"
     },
-    "flag": "https://restcountries.eu/data/atg.svg",
+    "flag": "https://media.istockphoto.com/id/1423297771/photo/antigua-and-barbuda-3d-flag.webp?b=1&s=170667a&w=0&k=20&c=JHFqXg-_5usjRZV9hQ6--UCH_1v8aLPNYOtmDd_cpQA=",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -597,7 +597,7 @@
       "hr": "Argentina",
       "fa": "آرژانتین"
     },
-    "flag": "https://restcountries.eu/data/arg.svg",
+    "flag": "https://media.istockphoto.com/id/1148458336/photo/waved-highly-detailed-close-up-flag-of-argentina-3d-illustration.webp?b=1&s=170667a&w=0&k=20&c=X6uZMtVKomD9dy8IqnPEQSyq-MroethQYw3rBr0ZZpk=",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -664,7 +664,7 @@
       "hr": "Armenija",
       "fa": "ارمنستان"
     },
-    "flag": "https://restcountries.eu/data/arm.svg",
+    "flag": "https://media.istockphoto.com/id/507544623/photo/flag-of-armenia.webp?b=1&s=170667a&w=0&k=20&c=qMkYi32-_TqO4hstGyUdI9T3IubWLDbJS3Rjh_SSg9A=",
     "regionalBlocs": [
       {
         "acronym": "EEU",
@@ -721,7 +721,7 @@
       "hr": "Aruba",
       "fa": "آروبا"
     },
-    "flag": "https://restcountries.eu/data/abw.svg",
+    "flag": "https://media.istockphoto.com/id/1128429883/photo/aruba-flag.webp?b=1&s=170667a&w=0&k=20&c=6wVhgBXpT4Qyn2uShDdZyREpBm7sIP2xnMh1hNyvQEU=",
     "regionalBlocs": [],
     "cioc": "ARU"
   },
@@ -776,7 +776,7 @@
       "hr": "Australija",
       "fa": "استرالیا"
     },
-    "flag": "https://restcountries.eu/data/aus.svg",
+    "flag": "https://media.istockphoto.com/id/178632450/photo/australian-flag.webp?b=1&s=170667a&w=0&k=20&c=ILX9CO5k3PdyUozh3rD6qEqHE3nv0E9wiefzZGaBE0Y=",
     "regionalBlocs": [],
     "cioc": "AUS"
   },
@@ -820,7 +820,7 @@
       "hr": "Austrija",
       "fa": "اتریش"
     },
-    "flag": "https://restcountries.eu/data/aut.svg",
+    "flag": "https://media.istockphoto.com/id/483862505/photo/austrian-flag.webp?b=1&s=170667a&w=0&k=20&c=bZTgDDXqveriANlVheth_ceUABkwNizhpz_vj6285z0=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -873,7 +873,7 @@
       "hr": "Azerbajdžan",
       "fa": "آذربایجان"
     },
-    "flag": "https://restcountries.eu/data/aze.svg",
+    "flag": "https://media.istockphoto.com/id/639706164/photo/flag-of-azerbaijan.webp?b=1&s=170667a&w=0&k=20&c=wW12_hZ8SFCRpxCV4_l3GLo82QQ4ouRAXq7pAVt3s1A=",
     "regionalBlocs": [],
     "cioc": "AZE"
   },
@@ -917,7 +917,7 @@
       "hr": "Bahami",
       "fa": "باهاما"
     },
-    "flag": "https://restcountries.eu/data/bhs.svg",
+    "flag": "https://media.istockphoto.com/id/182821068/photo/bahamas-flag.webp?b=1&s=170667a&w=0&k=20&c=Q76o-WPL3nrqBBWUCQu9Yk7nKKUX67hlzHxcpg_CQR8=",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -974,7 +974,7 @@
       "hr": "Bahrein",
       "fa": "بحرین"
     },
-    "flag": "https://restcountries.eu/data/bhr.svg",
+    "flag": "https://media.istockphoto.com/id/540989928/photo/bahrain-flag.webp?b=1&s=170667a&w=0&k=20&c=PYlOP664F-BFT_6IO3B506FiusItZHhRhdaUpAdTXZk=",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -1035,7 +1035,7 @@
       "hr": "Bangladeš",
       "fa": "بنگلادش"
     },
-    "flag": "https://restcountries.eu/data/bgd.svg",
+    "flag": "https://media.istockphoto.com/id/177863571/photo/flag-of-bangladesh.webp?b=1&s=170667a&w=0&k=20&c=SDop_BQUgFmyZ-RDTRS5JJ0CjlaCKJVHXtXxX9pBLbg=",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
@@ -1088,7 +1088,7 @@
       "hr": "Barbados",
       "fa": "باربادوس"
     },
-    "flag": "https://restcountries.eu/data/brb.svg",
+    "flag": "https://media.istockphoto.com/id/1594517222/photo/barbadian-flag.webp?b=1&s=170667a&w=0&k=20&c=s446c06ijP63sGZKxbxyHmNJ9v2n3UcTIExbF3MDuNM=",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -1160,7 +1160,7 @@
       "hr": "Bjelorusija",
       "fa": "بلاروس"
     },
-    "flag": "https://restcountries.eu/data/blr.svg",
+    "flag": "https://media.istockphoto.com/id/642659262/photo/flag-of-belarus.webp?b=1&s=170667a&w=0&k=20&c=fqORJCGjYPqlLXJqkT3-1Jo2tW-ax-19R_23MhKV2os=",
     "regionalBlocs": [
       {
         "acronym": "EEU",
@@ -1233,7 +1233,7 @@
       "hr": "Belgija",
       "fa": "بلژیک"
     },
-    "flag": "https://restcountries.eu/data/bel.svg",
+    "flag": "https://media.istockphoto.com/id/475191865/photo/belgium-flag.webp?b=1&s=170667a&w=0&k=20&c=fmjX7HO7J5-G-iTpsUmaYT0QLrVyfe69YL6lFcScPpM=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -1290,7 +1290,7 @@
       "hr": "Belize",
       "fa": "بلیز"
     },
-    "flag": "https://restcountries.eu/data/blz.svg",
+    "flag": "https://media.istockphoto.com/id/1423297774/photo/belize-3d-flag.webp?b=1&s=170667a&w=0&k=20&c=3WB7tOdiYPaOZN7CL35CxN4isIRn-DvDfcTAqjZCYRs=",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -1353,7 +1353,7 @@
       "hr": "Benin",
       "fa": "بنین"
     },
-    "flag": "https://restcountries.eu/data/ben.svg",
+    "flag": "https://media.istockphoto.com/id/1594520344/photo/flag-of-benin.webp?b=1&s=170667a&w=0&k=20&c=LwSPqL3UwZDk4735jRr0QHfazz9HOdI-_w3Tv9pulao=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -1417,7 +1417,7 @@
       "hr": "Bermudi",
       "fa": "برمودا"
     },
-    "flag": "https://restcountries.eu/data/bmu.svg",
+    "flag": "https://media.istockphoto.com/id/184300132/photo/bermuda-flag.webp?b=1&s=170667a&w=0&k=20&c=UmFZ6DfeFMtV4iH6S186v4xkRTTWZurckwiwK-3x0So=",
     "regionalBlocs": [],
     "cioc": "BER"
   },
@@ -1464,7 +1464,7 @@
       "hr": "Butan",
       "fa": "بوتان"
     },
-    "flag": "https://restcountries.eu/data/btn.svg",
+    "flag": "https://media.istockphoto.com/id/181056821/photo/flag-of-bhutan.webp?b=1&s=170667a&w=0&k=20&c=wcosBBH3ltI3DDJ42-THqHtniTKlMC__VqjcNIA3LMg=",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
@@ -1538,7 +1538,7 @@
       "hr": "Bolivija",
       "fa": "بولیوی"
     },
-    "flag": "https://restcountries.eu/data/bol.svg",
+    "flag": "https://media.istockphoto.com/id/1349790367/photo/flag-of-bolivia.webp?b=1&s=170667a&w=0&k=20&c=lPqrRqsBT4mPzSBfplDHaOOQwK-8jCT7RkQoU7Rg6vU=",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -1596,7 +1596,7 @@
       "hr": null,
       "fa": "بونیر"
     },
-    "flag": "https://restcountries.eu/data/bes.svg",
+    "flag": "https://media.istockphoto.com/id/464194213/photo/netherlands-anthiles-flag.webp?b=1&s=170667a&w=0&k=20&c=zk_HA3Aq7HXn79-AM2THEBGkmfe5PLkFe-ZIeCXPeyU=",
     "regionalBlocs": [],
     "cioc": null
   },
@@ -1658,7 +1658,7 @@
       "hr": "Bosna i Hercegovina",
       "fa": "بوسنی و هرزگوین"
     },
-    "flag": "https://restcountries.eu/data/bih.svg",
+    "flag": "https://media.istockphoto.com/id/1484126905/photo/flag-of-bosnia-and-herzegovina.webp?b=1&s=170667a&w=0&k=20&c=afqbO_WT-3p53D_OWYGFIh7GJ1n-91TKBcAONyrCqXo=",
     "regionalBlocs": [
       {
         "acronym": "CEFTA",
@@ -1715,7 +1715,7 @@
       "hr": "Bocvana",
       "fa": "بوتسوانا"
     },
-    "flag": "https://restcountries.eu/data/bwa.svg",
+    "flag": "https://media.istockphoto.com/id/184294693/photo/botswana-flag.webp?b=1&s=170667a&w=0&k=20&c=QgjAjv8yWFaMeSYh_1PufKL7p4sPvW6e8f88JPuypu8=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -1786,7 +1786,7 @@
       "hr": "Otok Bouvet",
       "fa": "جزیره بووه"
     },
-    "flag": "https://restcountries.eu/data/bvt.svg",
+    "flag": "https://media.istockphoto.com/id/693924924/photo/bouvet-island-flag.webp?b=1&s=170667a&w=0&k=20&c=xvKTAjXmHZiiNybrgri_MwIgk-r0MqKzRNXmeWUrTgU=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -1846,7 +1846,7 @@
       "hr": "Brazil",
       "fa": "برزیل"
     },
-    "flag": "https://restcountries.eu/data/bra.svg",
+    "flag": "https://media.istockphoto.com/id/153256414/photo/flag-of-brazil.webp?b=1&s=170667a&w=0&k=20&c=1YAKI3f5MyYgd53ZFnx-3XK2UyAyUpc6LLk4h04U894=",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -1904,7 +1904,7 @@
       "hr": "Britanski Indijskooceanski teritorij",
       "fa": "قلمرو بریتانیا در اقیانوس هند"
     },
-    "flag": "https://restcountries.eu/data/iot.svg",
+    "flag": "https://media.istockphoto.com/id/988111914/photo/flag-of-the-british-indian-ocean-territory.webp?b=1&s=170667a&w=0&k=20&c=GwwqXv5-0p6qodvtI5CoB_aWGd-coec53qKKIkXusAw=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -2010,7 +2010,7 @@
       "hr": "Britanski Djevičanski Otoci",
       "fa": "جزایر ویرجین بریتانیا"
     },
-    "flag": "https://restcountries.eu/data/vgb.svg",
+    "flag": "https://media.istockphoto.com/id/1450190116/photo/flag-of-the-virgin-islands.webp?b=1&s=170667a&w=0&k=20&c=ki_PO_nutiTScDFijHm8EwEJWWpfwRNjJxeL0GwjLRc=",
     "regionalBlocs": [],
     "cioc": "IVB"
   },
@@ -2061,7 +2061,7 @@
       "hr": null,
       "fa": "جزایر ویرجین آمریکا"
     },
-    "flag": "https://restcountries.eu/data/vir.svg",
+    "flag": "https://media.istockphoto.com/id/1483837561/photo/us-virgin-islands-flag.webp?b=1&s=170667a&w=0&k=20&c=ey8x-_I6YMnETAMY-qulhw3_I1ZG36SY4HwpSAvB4po=",
     "regionalBlocs": [],
     "cioc": "ISV"
   },
@@ -2108,7 +2108,7 @@
       "hr": "Brunej",
       "fa": "برونئی"
     },
-    "flag": "https://restcountries.eu/data/brn.svg",
+    "flag": "https://media.istockphoto.com/id/949340866/photo/waving-flag.webp?b=1&s=170667a&w=0&k=20&c=ssk2n03YZCmRlyld9r32qLEJ-iNH3ISyKmtI8UcGW1I=",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
@@ -2159,7 +2159,7 @@
       "hr": "Bugarska",
       "fa": "بلغارستان"
     },
-    "flag": "https://restcountries.eu/data/bgr.svg",
+    "flag": "https://media.istockphoto.com/id/966187940/photo/flag-of-bulgaria-background.webp?b=1&s=170667a&w=0&k=20&c=nbBuoFmeznWGIYvUa62vz92bDaimhtMsNaEO7udM7ZQ=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -2218,7 +2218,7 @@
       "hr": "Burkina Faso",
       "fa": "بورکینافاسو"
     },
-    "flag": "https://restcountries.eu/data/bfa.svg",
+    "flag": "https://media.istockphoto.com/id/1492286347/photo/burkina-faso-flag.webp?b=1&s=170667a&w=0&k=20&c=QCoRTdXDCZ6UshxKkAE-f62dr5nh3h-s7w9-v2_NYKw=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -2288,7 +2288,7 @@
       "hr": "Burundi",
       "fa": "بوروندی"
     },
-    "flag": "https://restcountries.eu/data/bdi.svg",
+    "flag": "https://media.istockphoto.com/id/1454396238/photo/burundi-flag-wave-highly-detailed-realistic-3d-rendering.webp?b=1&s=170667a&w=0&k=20&c=KPMu0NkyW7eiDTh033_A_9Qfp83AjTtEUKcY1sizie0=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -2348,7 +2348,7 @@
       "hr": "Kambodža",
       "fa": "کامبوج"
     },
-    "flag": "https://restcountries.eu/data/khm.svg",
+    "flag": "https://media.istockphoto.com/id/1424187093/photo/cambodia-3d-flag.webp?b=1&s=170667a&w=0&k=20&c=Q4oiDXxVLqYQo4_YoVM6e8E9pXbaNBm6AlEaAR9dISA=",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
@@ -2407,7 +2407,7 @@
       "hr": "Kamerun",
       "fa": "کامرون"
     },
-    "flag": "https://restcountries.eu/data/cmr.svg",
+    "flag": "https://media.istockphoto.com/id/1135118116/photo/cameroon-flag.webp?b=1&s=170667a&w=0&k=20&c=4YiSIcnSiVezrtV0AlQ4qxoL-sCv1otqLKySEMIEHx0=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -2477,7 +2477,7 @@
       "hr": "Kanada",
       "fa": "کانادا"
     },
-    "flag": "https://restcountries.eu/data/can.svg",
+    "flag": "https://media.istockphoto.com/id/520746056/photo/canadian-flag.webp?b=1&s=170667a&w=0&k=20&c=AV-878Y_uv0NRUPNwqVHzSuOYdMUo28LR0CrvDXmw98=",
     "regionalBlocs": [
       {
         "acronym": "NAFTA",
@@ -2533,7 +2533,7 @@
       "hr": "Zelenortska Republika",
       "fa": "کیپ ورد"
     },
-    "flag": "https://restcountries.eu/data/cpv.svg",
+    "flag": "https://media.istockphoto.com/id/650986800/photo/flag-of-cape-verde.webp?b=1&s=170667a&w=0&k=20&c=RMqP1MwuIqhjM-6PxZXCxkq4tbgIbrJUfak1L-vmDVI=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -2592,7 +2592,7 @@
       "hr": "Kajmanski otoci",
       "fa": "جزایر کیمن"
     },
-    "flag": "https://restcountries.eu/data/cym.svg",
+    "flag": "https://media.istockphoto.com/id/652470298/photo/flag-of-cayman-islands.webp?b=1&s=170667a&w=0&k=20&c=n6w2A97_dc6mb75jIHEsRas-zgokUoinNTHS6_kr9EA=",
     "regionalBlocs": [],
     "cioc": "CAY"
   },
@@ -2648,7 +2648,7 @@
       "hr": "Srednjoafrička Republika",
       "fa": "جمهوری آفریقای مرکزی"
     },
-    "flag": "https://restcountries.eu/data/caf.svg",
+    "flag": "https://media.istockphoto.com/id/1660664303/photo/central-african-republic-national-flag-on-white-background.webp?b=1&s=170667a&w=0&k=20&c=55ZRyloAgEOYPZySIii637AFHICl85wQutr4GwR3v0I=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -2713,7 +2713,7 @@
       "hr": "Čad",
       "fa": "چاد"
     },
-    "flag": "https://restcountries.eu/data/tcd.svg",
+    "flag": "https://media.istockphoto.com/id/1440904299/photo/chad-flag-on-the-flagpole.webp?b=1&s=170667a&w=0&k=20&c=9zjvKiZb7wroRRWGvsyzxiYuIIx1u3VvVSy2hTC1PwQ=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -2770,7 +2770,7 @@
       "hr": "Čile",
       "fa": "شیلی"
     },
-    "flag": "https://restcountries.eu/data/chl.svg",
+    "flag": "https://media.istockphoto.com/id/639703332/photo/flag-of-chile.webp?b=1&s=170667a&w=0&k=20&c=VZrB-1XSJqR1Q-DAfVLR0Dw49jPPR1mfIg48O3Gypf8=",
     "regionalBlocs": [
       {
         "acronym": "PA",
@@ -2856,7 +2856,7 @@
       "hr": "Kina",
       "fa": "چین"
     },
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flag": "https://media.istockphoto.com/id/494278147/photo/waving-china-flag.jpg?s=612x612&w=0&k=20&c=E6SAiWbHAI7W74m0vLQ_Nr32RYHd40wsglCj0KSviis=",
     "regionalBlocs": [],
     "cioc": "CHN"
   },
@@ -2902,7 +2902,7 @@
       "hr": "Božićni otok",
       "fa": "جزیره کریسمس"
     },
-    "flag": "https://restcountries.eu/data/cxr.svg",
+    "flag": "https://media.istockphoto.com/id/1483837167/photo/christmas-island-flag.webp?b=1&s=170667a&w=0&k=20&c=xdCXY5gadjXDZerNxRWFJj9ct5muDKvmRjKHOoV0vM8=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -2952,7 +2952,7 @@
       "hr": "Kokosovi Otoci",
       "fa": "جزایر کوکوس"
     },
-    "flag": "https://restcountries.eu/data/cck.svg",
+    "flag": "https://media.istockphoto.com/id/481812775/photo/the-flag-of-cocos-islands.webp?b=1&s=170667a&w=0&k=20&c=Gjd1YggheHLohj41F4h6ZgamgSEztYsgKMxoABBtSkg=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -2996,7 +2996,7 @@
       "hr": "Kolumbija",
       "fa": "کلمبیا"
     },
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flag": "https://media.istockphoto.com/id/1137362595/photo/colombia-flag.webp?b=1&s=170667a&w=0&k=20&c=zlhUsPL9gIuBkrm3dMTG3TZqY6C2D9liq59X2Kuevow=",
     "regionalBlocs": [
       {
         "acronym": "PA",
@@ -3070,7 +3070,7 @@
       "hr": "Komori",
       "fa": "کومور"
     },
-    "flag": "https://restcountries.eu/data/com.svg",
+    "flag": "https://media.istockphoto.com/id/172677127/photo/flag-of-comoros.webp?b=1&s=170667a&w=0&k=20&c=mDUj5pCwZmFKMcxdJyk14PRh6VQiu0rzwVUKHsoV4x0=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -3145,7 +3145,7 @@
       "hr": "Kongo",
       "fa": "کنگو"
     },
-    "flag": "https://restcountries.eu/data/cog.svg",
+    "flag": "https://media.istockphoto.com/id/1594507191/photo/congolese-flag.webp?b=1&s=170667a&w=0&k=20&c=P1SCaZ0mMPmeNUuHQAO716tg1l7QIYdXTPNV-hKNyfg=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -3228,7 +3228,7 @@
       "hr": "Kongo, Demokratska Republika",
       "fa": "جمهوری کنگو"
     },
-    "flag": "https://restcountries.eu/data/cod.svg",
+    "flag": "https://media.istockphoto.com/id/1139266451/photo/democratic-republic-of-the-congo-flag.webp?b=1&s=170667a&w=0&k=20&c=6LQrPgyWsz3_63vfCNr0wnR8D3a4OdCNbMttsEvLDaU=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -3288,7 +3288,7 @@
       "hr": "Cookovo Otočje",
       "fa": "جزایر کوک"
     },
-    "flag": "https://restcountries.eu/data/cok.svg",
+    "flag": "https://media.istockphoto.com/id/954073136/photo/flag-of-the-cook-islands.webp?b=1&s=170667a&w=0&k=20&c=cvK-GePg8tsMo9oDSuGSxW82se2gSJSZjlhHZxqyPeY=",
     "regionalBlocs": [],
     "cioc": "COK"
   },
@@ -3334,7 +3334,7 @@
       "hr": "Kostarika",
       "fa": "کاستاریکا"
     },
-    "flag": "https://restcountries.eu/data/cri.svg",
+    "flag": "https://media.istockphoto.com/id/652473764/photo/flag-of-costa-rica.webp?b=1&s=170667a&w=0&k=20&c=_P9UVyt1dtvSAKyhUOqw9nGgMvRPJozMbv7WZU00cRg=",
     "regionalBlocs": [
       {
         "acronym": "CAIS",
@@ -3390,7 +3390,7 @@
       "hr": "Hrvatska",
       "fa": "کرواسی"
     },
-    "flag": "https://restcountries.eu/data/hrv.svg",
+    "flag": "https://media.istockphoto.com/id/455219859/photo/croatian-flag.webp?b=1&s=170667a&w=0&k=20&c=y_sPPDuM1OLHVT9SRDIOccK_5RnkvIY7U3R2HVEv-yA=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -3444,7 +3444,7 @@
       "hr": "Kuba",
       "fa": "کوبا"
     },
-    "flag": "https://restcountries.eu/data/cub.svg",
+    "flag": "https://media.istockphoto.com/id/516927998/photo/close-up-of-cubas-flag.webp?b=1&s=170667a&w=0&k=20&c=Bx72BmQro473cAAw0K2umL_Xj-LncCA6YRxRN2N0H7A=",
     "regionalBlocs": [],
     "cioc": "CUB"
   },
@@ -3509,7 +3509,7 @@
       "hr": null,
       "fa": "کوراسائو"
     },
-    "flag": "https://restcountries.eu/data/cuw.svg",
+    "flag": "https://media.istockphoto.com/id/187147962/photo/curacao-flag.webp?b=1&s=170667a&w=0&k=20&c=izIQz2tMQsYmHZ8gronArXNzLS1NAFbFVrMO4YghsL4=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -3572,7 +3572,7 @@
       "hr": "Cipar",
       "fa": "قبرس"
     },
-    "flag": "https://restcountries.eu/data/cyp.svg",
+    "flag": "https://media.istockphoto.com/id/1335540255/photo/cyprus-flag-3d-render-8k.webp?b=1&s=170667a&w=0&k=20&c=jy68MurKbiFZWJ6WwpI5oPOMAWJT_-wLbbLt-NuPlBo=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -3629,7 +3629,7 @@
       "hr": "Češka",
       "fa": "جمهوری چک"
     },
-    "flag": "https://restcountries.eu/data/cze.svg",
+    "flag": "https://media.istockphoto.com/id/584565944/photo/flat-flag-of-czechoslovakia.webp?b=1&s=170667a&w=0&k=20&c=dn2z-29b5zU2MqUxwnOdy19ZE_JnDzG_ANNDUoj0J5c=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -3685,7 +3685,7 @@
       "hr": "Danska",
       "fa": "دانمارک"
     },
-    "flag": "https://restcountries.eu/data/dnk.svg",
+    "flag": "https://media.istockphoto.com/id/1293471136/photo/flag-of-denmark-silk.webp?b=1&s=170667a&w=0&k=20&c=1gohndpk-yLEk4O85YEiY-ZCULBMJACVzK7m6KVX9HA=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -3752,7 +3752,7 @@
       "hr": "Džibuti",
       "fa": "جیبوتی"
     },
-    "flag": "https://restcountries.eu/data/dji.svg",
+    "flag": "https://media.istockphoto.com/id/1419989170/photo/djibouti-flag.webp?b=1&s=170667a&w=0&k=20&c=sWt89VqgIw9gYpSgYGRTDl5nKItKBdfE1oRU5REb8gE=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -3826,7 +3826,7 @@
       "hr": "Dominika",
       "fa": "دومینیکا"
     },
-    "flag": "https://restcountries.eu/data/dma.svg",
+    "flag": "https://media.istockphoto.com/id/181065951/photo/flag-of-dominica.webp?b=1&s=170667a&w=0&k=20&c=-sWNi0Icuj_hpqKbf2DbNP1v3fotZUVxw7TJdHO8f-8=",
     "regionalBlocs": [],
     "cioc": "DMA"
   },
@@ -3870,7 +3870,7 @@
       "hr": "Dominikanska Republika",
       "fa": "جمهوری دومینیکن"
     },
-    "flag": "https://restcountries.eu/data/dom.svg",
+    "flag": "https://media.istockphoto.com/id/1139267578/photo/dominican-republic-flag.webp?b=1&s=170667a&w=0&k=20&c=Rrlx2ouA3ogTWkb0IpIOh-N48YP6pYm3Pizw081v_WA=",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -3933,7 +3933,7 @@
       "hr": "Ekvador",
       "fa": "اکوادور"
     },
-    "flag": "https://restcountries.eu/data/ecu.svg",
+    "flag": "https://media.istockphoto.com/id/652754070/photo/national-flag-of-ecuador.webp?b=1&s=170667a&w=0&k=20&c=C6uvHui6_9PfXQJUGZ3stGcPyuETCoNKeALVV8FYeZw=",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -3989,7 +3989,7 @@
       "hr": "Egipat",
       "fa": "مصر"
     },
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flag": "https://media.istockphoto.com/id/936894892/photo/flag-of-egypt-waving-background.jpg?s=612x612&w=0&k=20&c=fZSg8RmwIZUUMrB_kJGYQ0QI0a-FohLim_QKk1d91tQ=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -4062,7 +4062,7 @@
       "hr": "Salvador",
       "fa": "السالوادور"
     },
-    "flag": "https://restcountries.eu/data/slv.svg",
+    "flag": "https://media.istockphoto.com/id/1139713465/photo/el-salvador-flag.webp?b=1&s=170667a&w=0&k=20&c=Qx5CJpR86l7ivW15C_Iio27_Qv3c7HbiJ_kW6ajWu6Y=",
     "regionalBlocs": [
       {
         "acronym": "CAIS",
@@ -4127,7 +4127,7 @@
       "hr": "Ekvatorijalna Gvineja",
       "fa": "گینه استوایی"
     },
-    "flag": "https://restcountries.eu/data/gnq.svg",
+    "flag": "https://media.istockphoto.com/id/1474111979/photo/waving-flag-of-equatorial-guinea-in-3d-rendering.webp?b=1&s=170667a&w=0&k=20&c=qZhDDJQeDB3aTH0vkhN5ofEy2pPtpJeO_lzoh7nwVYs=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -4206,7 +4206,7 @@
       "hr": "Eritreja",
       "fa": "اریتره"
     },
-    "flag": "https://restcountries.eu/data/eri.svg",
+    "flag": "https://media.istockphoto.com/id/471612107/photo/wavy-flag-of-eritrea.jpg?s=612x612&w=0&k=20&c=lGJVu7COMLINEfWpP6Uhj3dFZyDtpeCLGJz9opBrPKQ=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -4263,7 +4263,7 @@
       "hr": "Estonija",
       "fa": "استونی"
     },
-    "flag": "https://restcountries.eu/data/est.svg",
+    "flag": "https://media.istockphoto.com/id/1095932584/photo/estonia-flag-waving-flag-of-estonia-3d-illustration-tallinn.webp?b=1&s=170667a&w=0&k=20&c=DjXRPNh4vMUq3qaneTmSA1OUf2steZwVPVQiFs_64YE=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -4319,7 +4319,7 @@
       "hr": "Etiopija",
       "fa": "اتیوپی"
     },
-    "flag": "https://restcountries.eu/data/eth.svg",
+    "flag": "https://media.istockphoto.com/id/1218025187/photo/flag-of-ethiopia-blowing-in-the-wind.webp?b=1&s=170667a&w=0&k=20&c=5gSmWMWD7REa3g8CaadghQiMOGfbWsMa08UoAllfb88=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -4378,7 +4378,7 @@
       "hr": "Falklandski Otoci",
       "fa": "جزایر فالکلند"
     },
-    "flag": "https://restcountries.eu/data/flk.svg",
+    "flag": "https://media.istockphoto.com/id/491790050/photo/flag-of-falkland-islands-the-stanley-uk.webp?b=1&s=170667a&w=0&k=20&c=-qHLE9uP2DD-FV4ao5nRzWNI83U760T1S_t1s7u98_Y=",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -4437,7 +4437,7 @@
       "hr": "Farski Otoci",
       "fa": "جزایر فارو"
     },
-    "flag": "https://restcountries.eu/data/fro.svg",
+    "flag": "https://media.istockphoto.com/id/1399012232/photo/the-flag-of-faroe-islands-waving-in-the-wind-on-a-clear-day.jpg?s=612x612&w=0&k=20&c=TlMHNcRfXFB-h8eSs1Fu_5MTW3TDZW2YTAyCKbTu1tI=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -4512,7 +4512,7 @@
       "hr": "Fiđi",
       "fa": "فیجی"
     },
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flag": "https://media.istockphoto.com/id/1143935465/photo/fiji-flag.webp?b=1&s=170667a&w=0&k=20&c=G2xORRu2U5I4pfLE8r7LItrPmd5hfwxSrZ0axZPnmoM=",
     "regionalBlocs": [],
     "cioc": "FIJ"
   },
@@ -4568,7 +4568,7 @@
       "hr": "Finska",
       "fa": "فنلاند"
     },
-    "flag": "https://restcountries.eu/data/fin.svg",
+    "flag": "https://media.istockphoto.com/id/183407381/photo/majestic-flag-of-finland.webp?b=1&s=170667a&w=0&k=20&c=vcMc_u8D8Vz9wx1Ez8Hwoofgx8LsEEFcl-YOOqh-G2I=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -4632,7 +4632,7 @@
       "hr": "Francuska",
       "fa": "فرانسه"
     },
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flag": "https://media.istockphoto.com/id/1146709386/photo/france-flag.webp?b=1&s=170667a&w=0&k=20&c=ZDc7NKlYJTkWNssaP4VRFeqrwO2RgWBhNRS9JFEmyBA=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -4683,7 +4683,7 @@
       "hr": "Francuska Gvajana",
       "fa": "گویان فرانسه"
     },
-    "flag": "https://restcountries.eu/data/guf.svg",
+    "flag": "https://media.istockphoto.com/id/1218597620/photo/french-guiana-flag-overseas-territories-of-france.webp?b=1&s=170667a&w=0&k=20&c=CET9DemAy5_fGUfkHdR8Tt8a1BfqT7VhteRZwOgXzW0=",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -4750,7 +4750,7 @@
       "hr": "Francuska Polinezija",
       "fa": "پلی‌نزی فرانسه"
     },
-    "flag": "https://restcountries.eu/data/pyf.svg",
+    "flag": "https://media.istockphoto.com/id/1053109910/photo/french-polynesia-city-flag-france-closeup-view.jpg?s=612x612&w=0&k=20&c=X8YOnPGrVhlsv3frpoQN1gh7VvHDIxjwA63dATTLw7o=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -4794,7 +4794,7 @@
       "hr": "Francuski južni i antarktički teritoriji",
       "fa": "سرزمین‌های جنوبی و جنوبگانی فرانسه"
     },
-    "flag": "https://restcountries.eu/data/atf.svg",
+    "flag": "https://media.istockphoto.com/id/1085632264/photo/french-southern-and-antarctic-lands-flag-close-up-waving-isolated-white-background.webp?b=1&s=170667a&w=0&k=20&c=ciNiiPAAhbrtEcn2UKG98nGvjbiBXGpsgwyZ55AHQoM=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -4853,7 +4853,7 @@
       "hr": "Gabon",
       "fa": "گابن"
     },
-    "flag": "https://restcountries.eu/data/gab.svg",
+    "flag": "https://media.istockphoto.com/id/1445012621/photo/render-of-the-gabon-flag-flutters-in-the-wind-close-up-the-national-flag-of-gabon-flutters-in.webp?b=1&s=170667a&w=0&k=20&c=WP3dIfcyC0qWV0W3AhcLx64Wh2hWUZRnlhN95vmoPEY=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -4910,7 +4910,7 @@
       "hr": "Gambija",
       "fa": "گامبیا"
     },
-    "flag": "https://restcountries.eu/data/gmb.svg",
+    "flag": "https://media.istockphoto.com/id/1146714652/photo/gambia-flag.webp?b=1&s=170667a&w=0&k=20&c=4J3ICoY6OUyJxd2s2lD1KJcmk9VBd-FB8owI-KxE5sc=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -4967,7 +4967,7 @@
       "hr": "Gruzija",
       "fa": "گرجستان"
     },
-    "flag": "https://restcountries.eu/data/geo.svg",
+    "flag": "https://media.istockphoto.com/id/181050087/photo/flag-of-georgia.webp?b=1&s=170667a&w=0&k=20&c=yl9ll9KUuoR7LbP1sv_y_CKMt8ksg86X5r_E3l3IdSA=",
     "regionalBlocs": [],
     "cioc": "GEO"
   },
@@ -5015,7 +5015,7 @@
       "hr": "Njemačka",
       "fa": "آلمان"
     },
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flag": "https://media.istockphoto.com/id/178369709/photo/flag-of-germany.webp?b=1&s=170667a&w=0&k=20&c=Cqfoji01BHNXugrlgi8jIw2F3zE0-J4mGKISYY07hl8=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -5066,7 +5066,7 @@
       "hr": "Gana",
       "fa": "غنا"
     },
-    "flag": "https://restcountries.eu/data/gha.svg",
+    "flag": "https://media.istockphoto.com/id/1445012619/photo/render-of-the-ghana-flag-flutters-in-the-wind-close-up-the-national-flag-of-ghana-flutters-in.webp?b=1&s=170667a&w=0&k=20&c=sDcJb5ZrYRfcgax2kx_eHamFsKhbG2jHjtq8dtIDl1s=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -5123,7 +5123,7 @@
       "hr": "Gibraltar",
       "fa": "جبل‌طارق"
     },
-    "flag": "https://restcountries.eu/data/gib.svg",
+    "flag": "https://media.istockphoto.com/id/640955158/photo/closeup-of-ruffled-gibraltar-flag-gibraltar-flag-blowing-in-wind.webp?b=1&s=170667a&w=0&k=20&c=0nN_b2kUmvLIrrZ9xq4sK7VXSwwBlS3KUvW5XmXX0gE=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -5179,7 +5179,7 @@
       "hr": "Grčka",
       "fa": "یونان"
     },
-    "flag": "https://restcountries.eu/data/grc.svg",
+    "flag": "https://media.istockphoto.com/id/508516467/photo/greeces-flag.webp?b=1&s=170667a&w=0&k=20&c=94V8D-aaSqygvEiBPvz3V_wKj2b3cF6pb0f6ydo1NdM=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -5230,7 +5230,7 @@
       "hr": "Grenland",
       "fa": "گرینلند"
     },
-    "flag": "https://restcountries.eu/data/grl.svg",
+    "flag": "https://media.istockphoto.com/id/966193582/photo/flag-of-greenland-background.webp?b=1&s=170667a&w=0&k=20&c=D768VbruZTPv_3gCkqqQ7glM6s8pilT4V51TWj2Vbtg=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -5276,7 +5276,7 @@
       "hr": "Grenada",
       "fa": "گرنادا"
     },
-    "flag": "https://restcountries.eu/data/grd.svg",
+    "flag": "https://media.istockphoto.com/id/453068981/photo/flag-of-grenada.webp?b=1&s=170667a&w=0&k=20&c=H4gSgRydoVxR-JAu1mMPZfZfRaS1VHAF5jD35GAlJnc=",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -5331,7 +5331,7 @@
       "hr": "Gvadalupa",
       "fa": "جزیره گوادلوپ"
     },
-    "flag": "https://restcountries.eu/data/glp.svg",
+    "flag": "https://media.istockphoto.com/id/1082843004/photo/guadeloupe-flag-waving-cloudy-sky-background.webp?b=1&s=170667a&w=0&k=20&c=D6ZrjR9TO4sUWkPO_XmK1nFwhFXxITl7JqP2-MYK5iE=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -5389,7 +5389,7 @@
       "hr": "Guam",
       "fa": "گوام"
     },
-    "flag": "https://restcountries.eu/data/gum.svg",
+    "flag": "https://media.istockphoto.com/id/465389286/photo/guam-flag.webp?b=1&s=170667a&w=0&k=20&c=JGcRNHTKY4k4HdrOsf6OXL2ZFQptAX2NndQRXRBrvoA=",
     "regionalBlocs": [],
     "cioc": "GUM"
   },
@@ -5435,7 +5435,7 @@
       "hr": "Gvatemala",
       "fa": "گواتمالا"
     },
-    "flag": "https://restcountries.eu/data/gtm.svg",
+    "flag": "https://media.istockphoto.com/id/181126819/photo/flag-of-guatemala.webp?b=1&s=170667a&w=0&k=20&c=xZxhBT0SorpdGwmaWLLfCsxuqKgxkbSk-4Y71UX-l5Y=",
     "regionalBlocs": [
       {
         "acronym": "CAIS",
@@ -5495,7 +5495,7 @@
       "hr": "Guernsey",
       "fa": "گرنزی"
     },
-    "flag": "https://restcountries.eu/data/ggy.svg",
+    "flag": "https://media.istockphoto.com/id/967561226/photo/flag-of-guernsey.jpg?s=612x612&w=0&k=20&c=_2CKagutd0GUqfp577eQWYu77183Bnw7U5fcjxxH1Xg=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -5545,7 +5545,7 @@
       "hr": "Gvineja",
       "fa": "گینه"
     },
-    "flag": "https://restcountries.eu/data/gin.svg",
+    "flag": "https://media.istockphoto.com/id/1220759639/photo/guinea-flag-on-the-background-texture-concept-for-designer-solutions.webp?b=1&s=170667a&w=0&k=20&c=xXeHG4FO6lVK6M7j1-rq4MbDtzOunXhkPRyKg7TKpds=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -5608,7 +5608,7 @@
       "hr": "Gvineja Bisau",
       "fa": "گینه بیسائو"
     },
-    "flag": "https://restcountries.eu/data/gnb.svg",
+    "flag": "https://media.istockphoto.com/id/1454408153/photo/guinea-bissau-flag-wave-highly-detailed-realistic-3d-rendering.webp?b=1&s=170667a&w=0&k=20&c=DBAcwKgPgYw_DH5fyQuyDD2B3GmIvhNSzuPevdk8_qw=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -5665,7 +5665,7 @@
       "hr": "Gvajana",
       "fa": "گویان"
     },
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flag": "https://media.istockphoto.com/id/1146884754/photo/guyana-flag.webp?b=1&s=170667a&w=0&k=20&c=J567i4oXF2Ajz7X4BbB-m7f20ny-9MpbngG8hDrl9vs=",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -5742,7 +5742,7 @@
       "hr": "Haiti",
       "fa": "هائیتی"
     },
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flag": "https://media.istockphoto.com/id/1147565630/photo/haiti-flag.webp?b=1&s=170667a&w=0&k=20&c=0_phx3yhXf7030TPbTWZ2KshQilscvSEVEBFfblze_o=",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -5799,7 +5799,7 @@
       "hr": "Otok Heard i otočje McDonald",
       "fa": "جزیره هرد و جزایر مک‌دونالد"
     },
-    "flag": "https://restcountries.eu/data/hmd.svg",
+    "flag": "https://media.istockphoto.com/id/1485792852/photo/heard-island-and-mcdonald-islands-flag-realistic-waving-fabric-flag.webp?b=1&s=170667a&w=0&k=20&c=egKDy42p5B8N5qQmaIXaTEchg2XwnXq1VlqBwhaCLbc=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -5907,7 +5907,7 @@
       "hr": "Honduras",
       "fa": "هندوراس"
     },
-    "flag": "https://restcountries.eu/data/hnd.svg",
+    "flag": "https://media.istockphoto.com/id/639705918/photo/flag-of-honduras.webp?b=1&s=170667a&w=0&k=20&c=p7Mr_zN5Egc8TjbBJj6YGyHjFyH7wQugsWnb93cJIHo=",
     "regionalBlocs": [
       {
         "acronym": "CAIS",
@@ -5966,7 +5966,7 @@
       "hr": "Hong Kong",
       "fa": "هنگ‌کنگ"
     },
-    "flag": "https://restcountries.eu/data/hkg.svg",
+    "flag": "https://media.istockphoto.com/id/184319265/photo/hong-kong-flag.webp?b=1&s=170667a&w=0&k=20&c=9_watHyyYLk7k6fMoRxM6mj79xU08xxNcW_oXInRqeI=",
     "regionalBlocs": [],
     "cioc": "HKG"
   },
@@ -6012,7 +6012,7 @@
       "hr": "Mađarska",
       "fa": "مجارستان"
     },
-    "flag": "https://restcountries.eu/data/hun.svg",
+    "flag": "https://media.istockphoto.com/id/493916103/photo/flag-of-hungary.webp?b=1&s=170667a&w=0&k=20&c=gEbniCE39creuPlyZJN4rGMOEvrKbpv5oEqDrMofbUQ=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -6065,7 +6065,7 @@
       "hr": "Island",
       "fa": "ایسلند"
     },
-    "flag": "https://restcountries.eu/data/isl.svg",
+    "flag": "https://media.istockphoto.com/id/1309827304/photo/highly-detailed-flag-of-iceland-iceland-flag-high-detail-national-flag-iceland-large-size.webp?b=1&s=170667a&w=0&k=20&c=h_oL5NDOanZQogwwy8EqJmFsufPOerVBc1Vfl9in2Hg=",
     "regionalBlocs": [
       {
         "acronym": "EFTA",
@@ -6122,7 +6122,7 @@
       "hr": "Indija",
       "fa": "هند"
     },
-    "flag": "https://restcountries.eu/data/ind.svg",
+    "flag": "https://media.istockphoto.com/id/931097020/photo/india-flag-waving-background.webp?b=1&s=170667a&w=0&k=20&c=6bbDcoPNXghH9vpXEoHS9CA13fvsByfO9PfnR9y9nAc=",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
@@ -6175,7 +6175,7 @@
       "hr": "Indonezija",
       "fa": "اندونزی"
     },
-    "flag": "https://restcountries.eu/data/idn.svg",
+    "flag": "https://media.istockphoto.com/id/479423455/photo/indonesia-flag.webp?b=1&s=170667a&w=0&k=20&c=q6eCc7iS216ycg3xPDLQcL-ccBDG-UGrWMD04qMeYuo=",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
@@ -6233,7 +6233,7 @@
       "hr": "Obala Bjelokosti",
       "fa": "ساحل عاج"
     },
-    "flag": "https://restcountries.eu/data/civ.svg",
+    "flag": "https://media.istockphoto.com/id/1218025201/photo/flag-of-ivory-coast-blowing-in-the-wind.webp?b=1&s=170667a&w=0&k=20&c=qz8XDsHH5aUQS_yxLHxO56OEF7wLCUGtWF2GPWIhuW0=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -6294,7 +6294,7 @@
       "hr": "Iran",
       "fa": "ایران"
     },
-    "flag": "https://restcountries.eu/data/irn.svg",
+    "flag": "https://media.istockphoto.com/id/185090630/photo/iranian-flag.webp?b=1&s=170667a&w=0&k=20&c=B0DarEPiuwgGfSGOmdta4X1deo3OHnfPldWMpbwCF_k=",
     "regionalBlocs": [],
     "cioc": "IRI"
   },
@@ -6344,7 +6344,7 @@
       "hr": "Irak",
       "fa": "عراق"
     },
-    "flag": "https://restcountries.eu/data/irq.svg",
+    "flag": "https://media.istockphoto.com/id/639705204/photo/flag-of-iraq.webp?b=1&s=170667a&w=0&k=20&c=MefA_yL5R_e3NY7uQrEPRB5thdA22r0vXi7oSionSC4=",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -6410,7 +6410,7 @@
       "hr": "Irska",
       "fa": "ایرلند"
     },
-    "flag": "https://restcountries.eu/data/irl.svg",
+    "flag": "https://media.istockphoto.com/id/1135844088/photo/flag-of-ireland-with-fabric-structure-in-the-wind.webp?b=1&s=170667a&w=0&k=20&c=zFmPhBgxaV57Kg7vj8Nbi4bvZQMufRizqnAiM6reVK0=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -6470,7 +6470,7 @@
       "hr": "Otok Man",
       "fa": "جزیره من"
     },
-    "flag": "https://restcountries.eu/data/imn.svg",
+    "flag": "https://media.istockphoto.com/id/1215090765/photo/isle-of-man-flag-uk.webp?b=1&s=170667a&w=0&k=20&c=god_JA40G2hQkBuuGiSJ3KKUlm9iYrDzeWVdQ7Qg64w=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -6529,7 +6529,7 @@
       "hr": "Izrael",
       "fa": "اسرائیل"
     },
-    "flag": "https://restcountries.eu/data/isr.svg",
+    "flag": "https://media.istockphoto.com/id/1149819731/photo/israel-flag.webp?b=1&s=170667a&w=0&k=20&c=tRD4h5llwGn3pThmfxhoa2lgKGBkN8ZbjdsYXTlfhDg=",
     "regionalBlocs": [],
     "cioc": "ISR"
   },
@@ -6573,7 +6573,7 @@
       "hr": "Italija",
       "fa": "ایتالیا"
     },
-    "flag": "https://restcountries.eu/data/ita.svg",
+    "flag": "https://media.istockphoto.com/id/1217765776/photo/flag-of-italy-blowing-in-the-wind.webp?b=1&s=170667a&w=0&k=20&c=7osiHF-y_OOWM1IdwkIUfVwTwhk1DIwFiXcDmhdT1hU=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -6624,7 +6624,7 @@
       "hr": "Jamajka",
       "fa": "جامائیکا"
     },
-    "flag": "https://restcountries.eu/data/jam.svg",
+    "flag": "https://media.istockphoto.com/id/181092567/photo/flag-of-jamaica.webp?b=1&s=170667a&w=0&k=20&c=eI2yuA0xsFFUupY9fRcBQaPCvTFEH_IXwReawm0ZwnY=",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -6679,7 +6679,7 @@
       "hr": "Japan",
       "fa": "ژاپن"
     },
-    "flag": "https://restcountries.eu/data/jpn.svg",
+    "flag": "https://media.istockphoto.com/id/178137781/photo/flag-of-japan.webp?b=1&s=170667a&w=0&k=20&c=d6rJ76_u6BitNp-oEpci7692kbPDltMPL6VLZbsvstU=",
     "regionalBlocs": [],
     "cioc": "JPN"
   },
@@ -6737,7 +6737,7 @@
       "hr": "Jersey",
       "fa": "جرزی"
     },
-    "flag": "https://restcountries.eu/data/jey.svg",
+    "flag": "https://media.istockphoto.com/id/800309402/photo/channel-islands-jersey-flag-against-blue-sky.webp?b=1&s=170667a&w=0&k=20&c=wt7jxnTwvykD2nUdicOqal7IJJeVh_x0zxX6tTCafPI=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -6787,7 +6787,7 @@
       "hr": "Jordan",
       "fa": "اردن"
     },
-    "flag": "https://restcountries.eu/data/jor.svg",
+    "flag": "https://media.istockphoto.com/id/182826898/photo/jordan-flag.webp?b=1&s=170667a&w=0&k=20&c=XWMtY7IApEqw2V9ZIHUlGaMDY3RqqQ7bRL8xE8e6-18=",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -6859,7 +6859,7 @@
       "hr": "Kazahstan",
       "fa": "قزاقستان"
     },
-    "flag": "https://restcountries.eu/data/kaz.svg",
+    "flag": "https://media.istockphoto.com/id/1151206107/photo/kazakhstan-flag.webp?b=1&s=170667a&w=0&k=20&c=mtOtp_Jm5N2-PWy2U_WlfKK-P6XoSUWC9TLW1FGnf3A=",
     "regionalBlocs": [
       {
         "acronym": "EEU",
@@ -6918,7 +6918,7 @@
       "hr": "Kenija",
       "fa": "کنیا"
     },
-    "flag": "https://restcountries.eu/data/ken.svg",
+    "flag": "https://media.istockphoto.com/id/181088142/photo/flag-of-kenya.webp?b=1&s=170667a&w=0&k=20&c=4dp8ucjiXoKk_-yAELEL90YOhLiJ0caKt840RUBCap8=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -6978,7 +6978,7 @@
       "hr": "Kiribati",
       "fa": "کیریباتی"
     },
-    "flag": "https://restcountries.eu/data/kir.svg",
+    "flag": "https://media.istockphoto.com/id/1450188459/photo/flag-of-kiribati.webp?b=1&s=170667a&w=0&k=20&c=LarB9hG4AtedOFIj1CG7GcppeW6PqtqnegL69VUZoHY=",
     "regionalBlocs": [],
     "cioc": "KIR"
   },
@@ -7022,7 +7022,7 @@
       "hr": "Kuvajt",
       "fa": "کویت"
     },
-    "flag": "https://restcountries.eu/data/kwt.svg",
+    "flag": "https://media.istockphoto.com/id/1413426232/photo/waving-national-flag-of-kuwait.webp?b=1&s=170667a&w=0&k=20&c=qinlVN3m2LznVWntis84DPezTxmKigA9ya7b32P24Yk=",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -7089,7 +7089,7 @@
       "hr": "Kirgistan",
       "fa": "قرقیزستان"
     },
-    "flag": "https://restcountries.eu/data/kgz.svg",
+    "flag": "https://media.istockphoto.com/id/869163570/photo/the-flag-of-kirghizia.webp?b=1&s=170667a&w=0&k=20&c=DBK-NJAmffQvXXNdC1eZbbWAKoI3YaRGMviK67FndZ4=",
     "regionalBlocs": [
       {
         "acronym": "EEU",
@@ -7146,7 +7146,7 @@
       "hr": "Laos",
       "fa": "لائوس"
     },
-    "flag": "https://restcountries.eu/data/lao.svg",
+    "flag": "https://media.istockphoto.com/id/182821456/photo/laos-flag.webp?b=1&s=170667a&w=0&k=20&c=QxfUr5CuWp7A7NiAp4zXDWvqbBigjZ5QaPk-kuXTXwk=",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
@@ -7197,7 +7197,7 @@
       "hr": "Latvija",
       "fa": "لتونی"
     },
-    "flag": "https://restcountries.eu/data/lva.svg",
+    "flag": "https://media.istockphoto.com/id/182150260/photo/close-up-flag-latvia.webp?b=1&s=170667a&w=0&k=20&c=zwICyAtGcnw2kjsKFzm7RL66P_yK5nNZKhR5I3Zovtw=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -7256,7 +7256,7 @@
       "hr": "Libanon",
       "fa": "لبنان"
     },
-    "flag": "https://restcountries.eu/data/lbn.svg",
+    "flag": "https://media.istockphoto.com/id/1152029800/photo/lebanon-flag.webp?b=1&s=170667a&w=0&k=20&c=jOvv5IsiSyw0NXLwZpe88ZQhHY4YRZr8tf2WLcpoMyI=",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -7320,7 +7320,7 @@
       "hr": "Lesoto",
       "fa": "لسوتو"
     },
-    "flag": "https://restcountries.eu/data/lso.svg",
+    "flag": "https://media.istockphoto.com/id/178487665/photo/lesotho-flag.webp?b=1&s=170667a&w=0&k=20&c=KSx3M5cf5DsuqGtdm2elbd_tj-eBBnNM45yZgtFhKCo=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -7377,7 +7377,7 @@
       "hr": "Liberija",
       "fa": "لیبریا"
     },
-    "flag": "https://restcountries.eu/data/lbr.svg",
+    "flag": "https://media.istockphoto.com/id/1434636351/photo/liberia-3d-flag.webp?b=1&s=170667a&w=0&k=20&c=BP7tOS7MySuXCi4pCkrxbJICiUMSSmPWzzric75oWZg=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -7434,7 +7434,7 @@
       "hr": "Libija",
       "fa": "لیبی"
     },
-    "flag": "https://restcountries.eu/data/lby.svg",
+    "flag": "https://media.istockphoto.com/id/154948704/photo/libya-flag.webp?b=1&s=170667a&w=0&k=20&c=7OJ2aP3j4x6LvyIUoQHVb8lX81mFTpd7kN16YJCj9zE=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -7505,7 +7505,7 @@
       "hr": "Lihtenštajn",
       "fa": "لیختن‌اشتاین"
     },
-    "flag": "https://restcountries.eu/data/lie.svg",
+    "flag": "https://media.istockphoto.com/id/1419715343/photo/liechtenstein-flag.webp?b=1&s=170667a&w=0&k=20&c=4M1WBLyiUZuq6senOVhfFLyA4tt2ZtWoGtd63UeQkMU=",
     "regionalBlocs": [
       {
         "acronym": "EFTA",
@@ -7556,7 +7556,7 @@
       "hr": "Litva",
       "fa": "لیتوانی"
     },
-    "flag": "https://restcountries.eu/data/ltu.svg",
+    "flag": "https://media.istockphoto.com/id/1155924135/photo/lithuania-flag.webp?b=1&s=170667a&w=0&k=20&c=vsOeZqvsA5peufqwFWMsex2FlrRF9IEuQmqWun-FT2E=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -7625,7 +7625,7 @@
       "hr": "Luksemburg",
       "fa": "لوکزامبورگ"
     },
-    "flag": "https://restcountries.eu/data/lux.svg",
+    "flag": "https://media.istockphoto.com/id/1219006218/photo/flag-of-luxembourg-blowing-in-the-wind.webp?b=1&s=170667a&w=0&k=20&c=0cXY8W1aeQ_CTVS1UhuBhNUdmFw6g9N1JrwXQxZK5Es=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -7688,7 +7688,7 @@
       "hr": "Makao",
       "fa": "مکائو"
     },
-    "flag": "https://restcountries.eu/data/mac.svg",
+    "flag": "https://media.istockphoto.com/id/1440894987/photo/macau-flag-on-the-flagpole.jpg?s=612x612&w=0&k=20&c=z2iCe3_DyjEr83CJR9iUGKhLQEf7EQ15ahScl9IG5SY=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -7734,7 +7734,7 @@
       "hr": "Makedonija",
       "fa": ""
     },
-    "flag": "https://restcountries.eu/data/mkd.svg",
+    "flag": "https://media.istockphoto.com/id/185071314/photo/close-up-flag-macedonia.webp?b=1&s=170667a&w=0&k=20&c=5riaOMclnuGWzrjIZd0f-FbgX01J3rF21bqectDNMFs=",
     "regionalBlocs": [
       {
         "acronym": "CEFTA",
@@ -7798,7 +7798,7 @@
       "hr": "Madagaskar",
       "fa": "ماداگاسکار"
     },
-    "flag": "https://restcountries.eu/data/mdg.svg",
+    "flag": "https://media.istockphoto.com/id/1618954045/photo/madagascar-national-flag.webp?b=1&s=170667a&w=0&k=20&c=0PcVEOQqUWjR8sl5e2KLwIsTWCcRieCBUi0_7jRfX0M=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -7863,7 +7863,7 @@
       "hr": "Malavi",
       "fa": "مالاوی"
     },
-    "flag": "https://restcountries.eu/data/mwi.svg",
+    "flag": "https://media.istockphoto.com/id/1163924614/photo/malawi-flag.webp?b=1&s=170667a&w=0&k=20&c=kNC6WcQOHaiBGPlDIAy9NAMSNOeV3U3fb5Hgzxv_qt0=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -7922,7 +7922,7 @@
       "hr": "Malezija",
       "fa": "مالزی"
     },
-    "flag": "https://restcountries.eu/data/mys.svg",
+    "flag": "https://media.istockphoto.com/id/184912854/photo/malaysia-flag.webp?b=1&s=170667a&w=0&k=20&c=t7gn4r7ti13jeN5qOGZ4HTZsoada_X1omTwuWR1AdaQ=",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
@@ -7980,7 +7980,7 @@
       "hr": "Maldivi",
       "fa": "مالدیو"
     },
-    "flag": "https://restcountries.eu/data/mdv.svg",
+    "flag": "https://media.istockphoto.com/id/1441180738/photo/maldives-flag.webp?b=1&s=170667a&w=0&k=20&c=ND0KTtmvSpTaPwNL4THp5-OI5RpgmUOGgFXjzoEgfB8=",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
@@ -8033,7 +8033,7 @@
       "hr": "Mali",
       "fa": "مالی"
     },
-    "flag": "https://restcountries.eu/data/mli.svg",
+    "flag": "https://media.istockphoto.com/id/1218025222/photo/flag-of-mali-blowing-in-the-wind.webp?b=1&s=170667a&w=0&k=20&c=W1yOlh4K5c6VOQt_l0GoWXhDF8HzkzYSWW0bxAgGKb0=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -8096,7 +8096,7 @@
       "hr": "Malta",
       "fa": "مالت"
     },
-    "flag": "https://restcountries.eu/data/mlt.svg",
+    "flag": "https://media.istockphoto.com/id/1178821733/photo/flag-of-malta.webp?b=1&s=170667a&w=0&k=20&c=xvxcw7yOGhPo3vtkkBpRVnD8_nSH2Ewlp8H76cPMY2Y=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -8159,7 +8159,7 @@
       "hr": "Maršalovi Otoci",
       "fa": "جزایر مارشال"
     },
-    "flag": "https://restcountries.eu/data/mhl.svg",
+    "flag": "https://media.istockphoto.com/id/1445954558/photo/marshall-islands-3d-flag.webp?b=1&s=170667a&w=0&k=20&c=iv03wI9Fcbj8BcJG8crGE3hToEowtax0zd0bvIMg-b8=",
     "regionalBlocs": [],
     "cioc": "MHL"
   },
@@ -8203,7 +8203,7 @@
       "hr": "Martinique",
       "fa": "مونتسرات"
     },
-    "flag": "https://restcountries.eu/data/mtq.svg",
+    "flag": "https://media.istockphoto.com/id/1329650013/photo/martinique-flag-waving.webp?b=1&s=170667a&w=0&k=20&c=pHdUxf_eZOcXwn2IdWLdJEd8E11e3cviTDRTLxJJrD8=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -8253,7 +8253,7 @@
       "hr": "Mauritanija",
       "fa": "موریتانی"
     },
-    "flag": "https://restcountries.eu/data/mrt.svg",
+    "flag": "https://media.istockphoto.com/id/1419989145/photo/mauritania-flag.webp?b=1&s=170667a&w=0&k=20&c=DalTH6g2M4pBOmhdueAJQmZTRYSc3HrT79bA_i9hBCI=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -8320,7 +8320,7 @@
       "hr": "Mauricijus",
       "fa": "موریس"
     },
-    "flag": "https://restcountries.eu/data/mus.svg",
+    "flag": "https://media.istockphoto.com/id/1454408536/photo/mauritius-flag-wave-highly-detailed-realistic-3d-rendering.webp?b=1&s=170667a&w=0&k=20&c=YrJFCWQ9K88k6c80KmOQuUdNWdC9K8gQ_TzDML7rrk0=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -8377,7 +8377,7 @@
       "hr": "Mayotte",
       "fa": "مایوت"
     },
-    "flag": "https://restcountries.eu/data/myt.svg",
+    "flag": "https://media.istockphoto.com/id/1085880586/photo/flag-of-mayotte-waving-in-the-wind-against-white-cloudy-blue-sky.webp?b=1&s=170667a&w=0&k=20&c=FOXqSz4S0aYreFmyKjEO5GQZpeBNR8Ksii0rXRHrsIY=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -8439,7 +8439,7 @@
       "hr": "Meksiko",
       "fa": "مکزیک"
     },
-    "flag": "https://restcountries.eu/data/mex.svg",
+    "flag": "https://media.istockphoto.com/id/1406910659/photo/flag-of-mexico-on-dark-blue-background.webp?b=1&s=170667a&w=0&k=20&c=VZxtUh1TfpK75gPRmPxfHT9skGlhZcz-qZ-rDI5hKQA=",
     "regionalBlocs": [
       {
         "acronym": "PA",
@@ -8502,7 +8502,7 @@
       "hr": "Mikronezija",
       "fa": "ایالات فدرال میکرونزی"
     },
-    "flag": "https://restcountries.eu/data/fsm.svg",
+    "flag": "https://media.istockphoto.com/id/1165349989/photo/micronesia-flag.webp?b=1&s=170667a&w=0&k=20&c=sGWoXT2ndOSpmZmw3yt5QkzJYKpuUxYovz4fPrl6mNw=",
     "regionalBlocs": [],
     "cioc": "FSM"
   },
@@ -8546,7 +8546,7 @@
       "hr": "Moldova",
       "fa": "مولداوی"
     },
-    "flag": "https://restcountries.eu/data/mda.svg",
+    "flag": "https://media.istockphoto.com/id/1419715363/photo/moldova-flag.webp?b=1&s=170667a&w=0&k=20&c=ctCRcGkxCOmQ47qcMbJxNUkeeZaWq7p_g0-ZyHML634=",
     "regionalBlocs": [
       {
         "acronym": "CEFTA",
@@ -8597,7 +8597,7 @@
       "hr": "Monako",
       "fa": "موناکو"
     },
-    "flag": "https://restcountries.eu/data/mco.svg",
+    "flag": "https://media.istockphoto.com/id/1440797726/photo/monaco-flag-on-the-flagpole.webp?b=1&s=170667a&w=0&k=20&c=yXV_Ydr67ufwypNw51VUBxhi15LLhU0JszYuXWLNDjY=",
     "regionalBlocs": [],
     "cioc": "MON"
   },
@@ -8643,7 +8643,7 @@
       "hr": "Mongolija",
       "fa": "مغولستان"
     },
-    "flag": "https://restcountries.eu/data/mng.svg",
+    "flag": "https://media.istockphoto.com/id/539125418/photo/national-flag-of-mongolia.webp?b=1&s=170667a&w=0&k=20&c=j9WPz1emi2wbvGuzKD9VByAd5DHsYtrLwEOUqroUcuM=",
     "regionalBlocs": [],
     "cioc": "MGL"
   },
@@ -8705,7 +8705,7 @@
       "hr": "Crna Gora",
       "fa": "مونته‌نگرو"
     },
-    "flag": "https://restcountries.eu/data/mne.svg",
+    "flag": "https://media.istockphoto.com/id/1454408564/photo/montenegro-flag-wave-highly-detailed-realistic-3d-rendering.webp?b=1&s=170667a&w=0&k=20&c=C0lKjD0EWi5v80m1xwzcd_m-UIaLyLwUSZ6qDr0-gQk=",
     "regionalBlocs": [
       {
         "acronym": "CEFTA",
@@ -8758,7 +8758,7 @@
       "hr": "Montserrat",
       "fa": "مایوت"
     },
-    "flag": "https://restcountries.eu/data/msr.svg",
+    "flag": "https://media.istockphoto.com/id/1552843502/photo/montserrat-flag-on-the-flagpole.jpg?s=612x612&w=0&k=20&c=NmG75PgQC1qCuilP0L8KikjQlLYmXzoGRTWaw-D_Te0=",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -8815,7 +8815,7 @@
       "hr": "Maroko",
       "fa": "مراکش"
     },
-    "flag": "https://restcountries.eu/data/mar.svg",
+    "flag": "https://media.istockphoto.com/id/182822520/photo/morocco-flag.webp?b=1&s=170667a&w=0&k=20&c=S5LcknQ3843mE1gHJrnpNjhVxSj5TMP30xyBx5ErF_s=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -8884,7 +8884,7 @@
       "hr": "Mozambik",
       "fa": "موزامبیک"
     },
-    "flag": "https://restcountries.eu/data/moz.svg",
+    "flag": "https://media.istockphoto.com/id/1434636441/photo/mozambique-3d-flag.webp?b=1&s=170667a&w=0&k=20&c=kBpoTFWrE3FFgGyNBAp2grpy0hd8ndZ82lHz-61SJcQ=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -8946,7 +8946,7 @@
       "hr": "Mijanmar",
       "fa": "میانمار"
     },
-    "flag": "https://restcountries.eu/data/mmr.svg",
+    "flag": "https://media.istockphoto.com/id/1454408574/photo/myanmar-flag-wave-highly-detailed-realistic-3d-rendering.webp?b=1&s=170667a&w=0&k=20&c=XF5TdHgpFfop2JKoMSXH-1T8Rwsd5G6Zi4R3sYG-5Rk=",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
@@ -9006,7 +9006,7 @@
       "hr": "Namibija",
       "fa": "نامیبیا"
     },
-    "flag": "https://restcountries.eu/data/nam.svg",
+    "flag": "https://media.istockphoto.com/id/1172543405/photo/namibia-flag.webp?b=1&s=170667a&w=0&k=20&c=z271jIEIlpgVsVxvJBwWnzwsVcKTEGMPRcgo_EbUqq8=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -9078,7 +9078,7 @@
       "hr": "Nauru",
       "fa": "نائورو"
     },
-    "flag": "https://restcountries.eu/data/nru.svg",
+    "flag": "https://media.istockphoto.com/id/1454408748/photo/nauru-flag-wave-highly-detailed-realistic-3d-rendering.webp?b=1&s=170667a&w=0&k=20&c=OMhE4ZElOKCB7Wq4YGB_VIM4YBDsqgQyEnxx06fbYy4=",
     "regionalBlocs": [],
     "cioc": "NRU"
   },
@@ -9126,7 +9126,7 @@
       "hr": "Nepal",
       "fa": "نپال"
     },
-    "flag": "https://restcountries.eu/data/npl.svg",
+    "flag": "https://media.istockphoto.com/id/1562949189/photo/nepal-flag-high-details-wavy-background.webp?b=1&s=170667a&w=0&k=20&c=W3CbrqhjktPP6Fh7YZ2oJ2LeLjVoD4Zkx8vhARy6mhM=",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
@@ -9177,7 +9177,7 @@
       "hr": "Nizozemska",
       "fa": "پادشاهی هلند"
     },
-    "flag": "https://restcountries.eu/data/nld.svg",
+    "flag": "https://media.istockphoto.com/id/493887157/photo/flag-of-netherlands.webp?b=1&s=170667a&w=0&k=20&c=ZVd8ZZN7a437O9zw1-p9OLHMmWJZBxZhTLSRtvPy1N8=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -9228,7 +9228,7 @@
       "hr": "Nova Kaledonija",
       "fa": "کالدونیای جدید"
     },
-    "flag": "https://restcountries.eu/data/ncl.svg",
+    "flag": "https://media.istockphoto.com/id/518467698/photo/flag-of-new-caledonia.webp?b=1&s=170667a&w=0&k=20&c=a2wL5uhy30Q8bLSrWIUqB3598pX8_gGktyAy41AVha8=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -9286,7 +9286,7 @@
       "hr": "Novi Zeland",
       "fa": "نیوزیلند"
     },
-    "flag": "https://restcountries.eu/data/nzl.svg",
+    "flag": "https://media.istockphoto.com/id/181060494/photo/new-zealand-flag.webp?b=1&s=170667a&w=0&k=20&c=lVVERvL7jygbef_SLGMKN6ACdxMWVRnKfWlwL0iigKk=",
     "regionalBlocs": [],
     "cioc": "NZL"
   },
@@ -9332,7 +9332,7 @@
       "hr": "Nikaragva",
       "fa": "نیکاراگوئه"
     },
-    "flag": "https://restcountries.eu/data/nic.svg",
+    "flag": "https://media.istockphoto.com/id/178580622/photo/nicaragua-flag.webp?b=1&s=170667a&w=0&k=20&c=9g-De-J3k4y4GnRaGSxOLnbEzDEB2sI16sRaMvAJzgA=",
     "regionalBlocs": [
       {
         "acronym": "CAIS",
@@ -9385,7 +9385,7 @@
       "hr": "Niger",
       "fa": "نیجر"
     },
-    "flag": "https://restcountries.eu/data/ner.svg",
+    "flag": "https://media.istockphoto.com/id/1178289936/photo/niger-flag-depth-of-field.webp?b=1&s=170667a&w=0&k=20&c=M2wmS2uGST-BaWv3zvXOi4PGXvwsuU7HsRdaCD0PoP4=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -9447,7 +9447,7 @@
       "hr": "Nigerija",
       "fa": "نیجریه"
     },
-    "flag": "https://restcountries.eu/data/nga.svg",
+    "flag": "https://media.istockphoto.com/id/1218025237/photo/flag-of-nigeria-blowing-in-the-wind.webp?b=1&s=170667a&w=0&k=20&c=CiIEFcZ4TviWhCC9s7ejiPmwUo2AM6zXvOv3gi3C_do=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -9507,7 +9507,7 @@
       "hr": "Niue",
       "fa": "نیووی"
     },
-    "flag": "https://restcountries.eu/data/niu.svg",
+    "flag": "https://media.istockphoto.com/id/182807189/photo/niue-flag.webp?b=1&s=170667a&w=0&k=20&c=zSuiEtLazvifA63KRiZer_CdBRptAuCY9uV-ulUx16w=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -9557,7 +9557,7 @@
       "hr": "Otok Norfolk",
       "fa": "جزیره نورفک"
     },
-    "flag": "https://restcountries.eu/data/nfk.svg",
+    "flag": "https://media.istockphoto.com/id/1329650072/photo/norfolk-island-flag-waving.webp?b=1&s=170667a&w=0&k=20&c=4wXh5qD7NzK4gb_4Mj97tb0VUcM49dMCbzK5tvzQqiA=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -9608,7 +9608,7 @@
       "hr": "Sjeverna Koreja",
       "fa": "کره جنوبی"
     },
-    "flag": "https://restcountries.eu/data/prk.svg",
+    "flag": "https://media.istockphoto.com/id/1475395056/photo/waving-of-fabric-south-korea-flag.webp?b=1&s=170667a&w=0&k=20&c=4VdSkHNZ8eQW9dkE9c8010Vjg2z-a_uiOphLa-HFhBk=",
     "regionalBlocs": [],
     "cioc": "PRK"
   },
@@ -9664,7 +9664,7 @@
       "hr": "Sjevernomarijanski otoci",
       "fa": "جزایر ماریانای شمالی"
     },
-    "flag": "https://restcountries.eu/data/mnp.svg",
+    "flag": "https://media.istockphoto.com/id/1483837453/photo/northern-mariana-islands-flag.webp?b=1&s=170667a&w=0&k=20&c=fdtWca-YW9VrOJtPh_z3SLK8IH7RI9nssLmoLu6rAzY=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -9729,7 +9729,7 @@
       "hr": "Norveška",
       "fa": "نروژ"
     },
-    "flag": "https://restcountries.eu/data/nor.svg",
+    "flag": "https://media.istockphoto.com/id/1095932558/photo/norway-flag-waving-flag-of-norway-3d-illustration-oslo.jpg?s=612x612&w=0&k=20&c=TZUEoanIUnTs5GMLg2Ynqwv-wS84N7Fmml3lEWKd7IY=",
     "regionalBlocs": [
       {
         "acronym": "EFTA",
@@ -9780,7 +9780,7 @@
       "hr": "Oman",
       "fa": "عمان"
     },
-    "flag": "https://restcountries.eu/data/omn.svg",
+    "flag": "https://media.istockphoto.com/id/1178124985/photo/oman-flag.webp?b=1&s=170667a&w=0&k=20&c=LQzdkjoaVQouvRx9JQ3uNJLEfUVr_T0Zl2hdTvkufR0=",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -9846,7 +9846,7 @@
       "hr": "Pakistan",
       "fa": "پاکستان"
     },
-    "flag": "https://restcountries.eu/data/pak.svg",
+    "flag": "https://media.istockphoto.com/id/182820726/photo/pakistan-flag.webp?b=1&s=170667a&w=0&k=20&c=hUyka7evaxMSVFtdZeAkDeWdbDyz01S3vDccuqEqgNU=",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
@@ -9900,7 +9900,7 @@
       "hr": "Palau",
       "fa": "پالائو"
     },
-    "flag": "https://restcountries.eu/data/plw.svg",
+    "flag": "https://media.istockphoto.com/id/1450188503/photo/flag-of-palau.webp?b=1&s=170667a&w=0&k=20&c=yNAuCSHn3ejBhaQqBF_nJtGCYryXmhyDu14xxOEY270=",
     "regionalBlocs": [],
     "cioc": "PLW"
   },
@@ -9946,7 +9946,7 @@
       "hr": "Palestina",
       "fa": "فلسطین"
     },
-    "flag": "https://restcountries.eu/data/pse.svg",
+    "flag": "https://media.istockphoto.com/id/1318499469/photo/close-up-view-of-the-flag-of-palestine-waving-in-the-wind.webp?b=1&s=170667a&w=0&k=20&c=r_2_iRdFittch2JeVtjDR5HOGizfUsmZ4TddhHoI45k=",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -10004,7 +10004,7 @@
       "hr": "Panama",
       "fa": "پاناما"
     },
-    "flag": "https://restcountries.eu/data/pan.svg",
+    "flag": "https://media.istockphoto.com/id/1178124179/photo/panama-flag.webp?b=1&s=170667a&w=0&k=20&c=O-G4SscfNTXu6w1Gl_LnP01CutS9CZsF2aWL3-Vlg2k=",
     "regionalBlocs": [
       {
         "acronym": "CAIS",
@@ -10061,7 +10061,7 @@
       "hr": "Papua Nova Gvineja",
       "fa": "پاپوآ گینه نو"
     },
-    "flag": "https://restcountries.eu/data/png.svg",
+    "flag": "https://media.istockphoto.com/id/1178995211/photo/papua-new-guinea-flag.webp?b=1&s=170667a&w=0&k=20&c=kwQYofpBvkKjHgKqdSws5DRzVMrn1O13PR6G8jw8Q0w=",
     "regionalBlocs": [],
     "cioc": "PNG"
   },
@@ -10118,7 +10118,7 @@
       "hr": "Paragvaj",
       "fa": "پاراگوئه"
     },
-    "flag": "https://restcountries.eu/data/pry.svg",
+    "flag": "https://media.istockphoto.com/id/1141356833/photo/flag-of-paraguay-waved-highly-detailed-fabric-texture.webp?b=1&s=170667a&w=0&k=20&c=G9VMQeAxU5v45hkY1zUm70zjvu5Md9d-ujhGrxWHBX8=",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -10174,7 +10174,7 @@
       "hr": "Peru",
       "fa": "پرو"
     },
-    "flag": "https://restcountries.eu/data/per.svg",
+    "flag": "https://media.istockphoto.com/id/499594672/photo/perus-flag.webp?b=1&s=170667a&w=0&k=20&c=xQyRHWxrSV9-yDm7ivdgHya3ruH8D98kQ1wDGxq5X3o=",
     "regionalBlocs": [
       {
         "acronym": "PA",
@@ -10240,7 +10240,7 @@
       "hr": "Filipini",
       "fa": "جزایر الندفیلیپین"
     },
-    "flag": "https://restcountries.eu/data/phl.svg",
+    "flag": "https://media.istockphoto.com/id/878591552/photo/philippines-flag-a-series-of-flags-of-the-world.webp?b=1&s=170667a&w=0&k=20&c=ppRizuLdrU8dSueS756EPWL8Wkr3Tl7FsskIQxZM-0k=",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
@@ -10294,7 +10294,7 @@
       "hr": "Pitcairnovo otočje",
       "fa": "پیتکرن"
     },
-    "flag": "https://restcountries.eu/data/pcn.svg",
+    "flag": "https://media.istockphoto.com/id/1552844560/photo/pitcairn-islands-flag-on-the-flagpole.webp?b=1&s=170667a&w=0&k=20&c=6VMEUzWFVaNQVIIlkZD4OyXRwUZzer87XKXb41HFhWM=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -10338,7 +10338,7 @@
       "hr": "Poljska",
       "fa": "لهستان"
     },
-    "flag": "https://restcountries.eu/data/pol.svg",
+    "flag": "https://media.istockphoto.com/id/1218009981/photo/flag-of-poland-blowing-in-the-wind.webp?b=1&s=170667a&w=0&k=20&c=5eqR144IYV83LePZr4TrmR20bWW0oNhk9nQZ0fs3fO0=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -10394,7 +10394,7 @@
       "hr": "Portugal",
       "fa": "پرتغال"
     },
-    "flag": "https://restcountries.eu/data/prt.svg",
+    "flag": "https://media.istockphoto.com/id/1178995143/photo/portugal-flag.webp?b=1&s=170667a&w=0&k=20&c=OhoaiGHK_quGKTgyJ1Gg3uKmDndyKwLqloxat8znG78=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -10457,7 +10457,7 @@
       "hr": "Portoriko",
       "fa": "پورتو ریکو"
     },
-    "flag": "https://restcountries.eu/data/pri.svg",
+    "flag": "https://media.istockphoto.com/id/1178995113/photo/puerto-rico-flag.webp?b=1&s=170667a&w=0&k=20&c=m9Frv5rK_DIH3aI743PmxIlFPFhuNt3Y2zdex2IZTKE=",
     "regionalBlocs": [],
     "cioc": "PUR"
   },
@@ -10501,7 +10501,7 @@
       "hr": "Katar",
       "fa": "قطر"
     },
-    "flag": "https://restcountries.eu/data/qat.svg",
+    "flag": "https://media.istockphoto.com/id/504823035/photo/flag-of-qatar.webp?b=1&s=170667a&w=0&k=20&c=Vd6rcLJiYuB5hXspRxrRgempF5atsmz2ZmhjugQaJWE=",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -10562,7 +10562,7 @@
       "hr": "Kosovo",
       "fa": "کوزوو"
     },
-    "flag": "https://restcountries.eu/data/kos.svg",
+    "flag": "https://media.istockphoto.com/id/1445012681/photo/render-of-the-kosovo-flag-flutters-in-the-wind-close-up-the-national-flag-of-kosovo-flutters.webp?b=1&s=170667a&w=0&k=20&c=fwiQcft9JXQEyyUeQwGf0kfP5_IkYYrotxwgQj8d08s=",
     "regionalBlocs": [
       {
         "acronym": "CEFTA",
@@ -10613,7 +10613,7 @@
       "hr": "Réunion",
       "fa": "رئونیون"
     },
-    "flag": "https://restcountries.eu/data/reu.svg",
+    "flag": "https://media.istockphoto.com/id/1078229366/photo/reunion-var-flag-waving-isolated-on-white-background-realistic-3d-illustration.webp?b=1&s=170667a&w=0&k=20&c=-pHyVx0oJlpBW-FlsUMJQqCRKStjFH5ky-B5GTZWRn4=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -10670,7 +10670,7 @@
       "hr": "Rumunjska",
       "fa": "رومانی"
     },
-    "flag": "https://restcountries.eu/data/rou.svg",
+    "flag": "https://media.istockphoto.com/id/1178991990/photo/romania-flag.webp?b=1&s=170667a&w=0&k=20&c=EyJvQoexDGIuaWaPkc8oG_a5ejnM7wd_7coJQ1qYiXg=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -10752,7 +10752,7 @@
       "hr": "Rusija",
       "fa": "روسیه"
     },
-    "flag": "https://restcountries.eu/data/rus.svg",
+    "flag": "https://media.istockphoto.com/id/489481953/photo/flag-of-russia.webp?b=1&s=170667a&w=0&k=20&c=K2cyE1q7E10nIIzStPr3GqMAXkRP3skDFTbL8Lwyek8=",
     "regionalBlocs": [
       {
         "acronym": "EEU",
@@ -10820,7 +10820,7 @@
       "hr": "Ruanda",
       "fa": "رواندا"
     },
-    "flag": "https://restcountries.eu/data/rwa.svg",
+    "flag": "https://media.istockphoto.com/id/1419989154/photo/rwanda-flag.webp?b=1&s=170667a&w=0&k=20&c=rPwVSiUA_UHcrJD3V7Il5hTO8yfeO3Vhqy5dxofUGPk=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -10882,7 +10882,7 @@
       "hr": "Saint Barthélemy",
       "fa": "سن-بارتلمی"
     },
-    "flag": "https://restcountries.eu/data/blm.svg",
+    "flag": "https://media.istockphoto.com/id/482965119/photo/saint-barthelemy.webp?b=1&s=170667a&w=0&k=20&c=4NWO9o8IIRkTGwer07KQA7Kh05x863yTkCA62DBtuns=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -10928,7 +10928,7 @@
       "hr": "Sveta Helena",
       "fa": "سنت هلنا، اسنشن و تریستان دا کونا"
     },
-    "flag": "https://restcountries.eu/data/shn.svg",
+    "flag": "https://media.istockphoto.com/id/474622546/photo/flag-of-saint-helena-ascension-and-tristan-da-cunha.webp?b=1&s=170667a&w=0&k=20&c=fyqQ2iGpiLKEMV28_prUoAe8sLLvztzze1e5CSm9-GY=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -10987,7 +10987,7 @@
       "hr": "Sveti Kristof i Nevis",
       "fa": "سنت کیتس و نویس"
     },
-    "flag": "https://restcountries.eu/data/kna.svg",
+    "flag": "https://media.istockphoto.com/id/1179596361/photo/saint-kitts-and-nevis-flag.webp?b=1&s=170667a&w=0&k=20&c=63tg6gY26eEW72rCGLqIx9mI6Xp6chgJmubkOstMcDA=",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -11044,7 +11044,7 @@
       "hr": "Sveta Lucija",
       "fa": "سنت لوسیا"
     },
-    "flag": "https://restcountries.eu/data/lca.svg",
+    "flag": "https://media.istockphoto.com/id/1440790636/photo/saint-lucia-flag-on-the-flagpole.webp?b=1&s=170667a&w=0&k=20&c=oHaWBpWKgzi33p9NrlJ9rNVXtQzQJ7pB3uL2roIVdws=",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -11162,7 +11162,7 @@
       "hr": "Sveti Petar i Mikelon",
       "fa": "سن پیر و میکلن"
     },
-    "flag": "https://restcountries.eu/data/spm.svg",
+    "flag": "https://media.istockphoto.com/id/1422290458/photo/flag-of-saint-pierre-and-miquelon-territorial-collectivity-of-saint-pierre-and-miquelon.webp?b=1&s=170667a&w=0&k=20&c=GB96BaFtlav1HmLS5O-BVeXHkKVsjfZvF8xxPzmP0Bk=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -11208,7 +11208,7 @@
       "hr": "Sveti Vincent i Grenadini",
       "fa": "سنت وینسنت و گرنادین‌ها"
     },
-    "flag": "https://restcountries.eu/data/vct.svg",
+    "flag": "https://media.istockphoto.com/id/172757938/photo/flag-of-saint-vincent-and-the-grenadines.webp?b=1&s=170667a&w=0&k=20&c=kjy9JOcUJVlzKnWMrBvucRC2cr9a2MoLMxGiqyk691M=",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -11273,7 +11273,7 @@
       "hr": "Samoa",
       "fa": "ساموآ"
     },
-    "flag": "https://restcountries.eu/data/wsm.svg",
+    "flag": "https://media.istockphoto.com/id/1484560225/photo/flag-of-samoa.jpg?s=612x612&w=0&k=20&c=LsVTOdqx494v_xJETNXnZ4DENkyGJMqhhnK38G7GnrE=",
     "regionalBlocs": [],
     "cioc": "SAM"
   },
@@ -11321,7 +11321,7 @@
       "hr": "San Marino",
       "fa": "سان مارینو"
     },
-    "flag": "https://restcountries.eu/data/smr.svg",
+    "flag": "https://media.istockphoto.com/id/1424238390/photo/waving-flag-of-san-marino.webp?b=1&s=170667a&w=0&k=20&c=fJWHIDOjYavn0XOPX--nEjK8DG3xnmFtCMyL5N6RzA4=",
     "regionalBlocs": [],
     "cioc": "SMR"
   },
@@ -11371,7 +11371,7 @@
       "hr": "Sveti Toma i Princip",
       "fa": "کواترو دو فرویرو"
     },
-    "flag": "https://restcountries.eu/data/stp.svg",
+    "flag": "https://media.istockphoto.com/id/652206598/photo/flag-of-sao-tome-and-principe.webp?b=1&s=170667a&w=0&k=20&c=lmNt2vcIZ5-y0WpqVhNflYaqP2LSd9USDZHI9j52mHQ=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -11432,7 +11432,7 @@
       "hr": "Saudijska Arabija",
       "fa": "عربستان سعودی"
     },
-    "flag": "https://restcountries.eu/data/sau.svg",
+    "flag": "https://media.istockphoto.com/id/155160844/photo/saudi-arabian-flag.webp?b=1&s=170667a&w=0&k=20&c=WebUa9ibm7623ZtN3cLpsH96B9POQwpZvHE6mp8zrUU=",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -11489,7 +11489,7 @@
       "hr": "Senegal",
       "fa": "سنگال"
     },
-    "flag": "https://restcountries.eu/data/sen.svg",
+    "flag": "https://media.istockphoto.com/id/680713780/photo/senegal-flag.webp?b=1&s=170667a&w=0&k=20&c=v-9Gd-ftwAgzQBg1tt_5T09f4PT6xAz7-o0W29lT_Nw=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -11554,7 +11554,7 @@
       "hr": "Srbija",
       "fa": "صربستان"
     },
-    "flag": "https://restcountries.eu/data/srb.svg",
+    "flag": "https://media.istockphoto.com/id/639705456/photo/flag-of-serbia.webp?b=1&s=170667a&w=0&k=20&c=P2bYMpa9ykX2MhKE2hsVAKKAG3czEMIJ43JR_teQkj4=",
     "regionalBlocs": [
       {
         "acronym": "CEFTA",
@@ -11618,7 +11618,7 @@
       "hr": "Sejšeli",
       "fa": "سیشل"
     },
-    "flag": "https://restcountries.eu/data/syc.svg",
+    "flag": "https://media.istockphoto.com/id/172791059/photo/flag-of-the-seychelles.webp?b=1&s=170667a&w=0&k=20&c=ugd5eRaUq-2X7W2RhwtXMvxH-pP1g9IIZ-onBWQHHVE=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -11677,7 +11677,7 @@
       "hr": "Sijera Leone",
       "fa": "سیرالئون"
     },
-    "flag": "https://restcountries.eu/data/sle.svg",
+    "flag": "https://media.istockphoto.com/id/1434636494/photo/sierra-leone-3d-flag.webp?b=1&s=170667a&w=0&k=20&c=mZYEqmYVGQPbd9Nir6iPuho3kTufVUxHRxZKdTDrioM=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -11814,7 +11814,7 @@
       "hr": null,
       "fa": "سینت مارتن"
     },
-    "flag": "https://restcountries.eu/data/sxm.svg",
+    "flag": "https://media.istockphoto.com/id/1085886342/photo/flag-of-sint-maarten-waving-in-the-wind-against-deep-blue-sky.webp?b=1&s=170667a&w=0&k=20&c=quKGrRg9_g0Hu75dhr-2NKsoorBQB51VJgpeAuDjGBE=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -11858,7 +11858,7 @@
       "hr": "Slovačka",
       "fa": "اسلواکی"
     },
-    "flag": "https://restcountries.eu/data/svk.svg",
+    "flag": "https://media.istockphoto.com/id/1413426638/photo/waving-national-flag-of-slovakia.webp?b=1&s=170667a&w=0&k=20&c=iQrN1LdpT_YsO1YYa7Q5mU7B__BT3IOJpgWfe4wqtpA=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -11909,7 +11909,7 @@
       "hr": "Slovenija",
       "fa": "اسلوونی"
     },
-    "flag": "https://restcountries.eu/data/svn.svg",
+    "flag": "https://media.istockphoto.com/id/1221179024/photo/realistic-flag-waving-flag-of-the-country-of-the-european-union-3d-illustration.webp?b=1&s=170667a&w=0&k=20&c=w3XA7wtJBkYSgrCwQ59KQvSdU56DF_RYZO3tq_BoGlY=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -11962,7 +11962,7 @@
       "hr": "Solomonski Otoci",
       "fa": "جزایر سلیمان"
     },
-    "flag": "https://restcountries.eu/data/slb.svg",
+    "flag": "https://media.istockphoto.com/id/494598933/photo/waving-solomon-islands-flag.webp?b=1&s=170667a&w=0&k=20&c=3cNiBtsP_xGBrgXF385xfWW9574zg3-ZrbD7s1iqsjc=",
     "regionalBlocs": [],
     "cioc": "SOL"
   },
@@ -12020,7 +12020,7 @@
       "hr": "Somalija",
       "fa": "سومالی"
     },
-    "flag": "https://restcountries.eu/data/som.svg",
+    "flag": "https://media.istockphoto.com/id/1445684242/photo/close-up-view-of-the-somalia-national-flag-waving-in-the-wind.webp?b=1&s=170667a&w=0&k=20&c=L0liKynWQvMZq-iIXnN6XpD4mD1nyrdMzSseWeIeYRU=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -12143,7 +12143,7 @@
       "hr": "Južnoafrička Republika",
       "fa": "آفریقای جنوبی"
     },
-    "flag": "https://restcountries.eu/data/zaf.svg",
+    "flag": "https://media.istockphoto.com/id/497566021/photo/flag-of-republic-of-south-africa.webp?b=1&s=170667a&w=0&k=20&c=fUXZPncoqXZIYObpd19Jeh-fgcluVM88IQS4nGWs0M8=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -12203,7 +12203,7 @@
       "hr": "Južna Georgija i otočje Južni Sandwich",
       "fa": "جزایر جورجیای جنوبی و ساندویچ جنوبی"
     },
-    "flag": "https://restcountries.eu/data/sgs.svg",
+    "flag": "https://media.istockphoto.com/id/461138475/photo/iconic-flag-of-south-georgia-and-the-s-sandwich-islands.webp?b=1&s=170667a&w=0&k=20&c=cnFj9V1ZvF7pxQnKkoccCCsU-8lzeWJ7LqG985j8x1E=",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -12261,7 +12261,7 @@
       "hr": "Južna Koreja",
       "fa": "کره شمالی"
     },
-    "flag": "https://restcountries.eu/data/kor.svg",
+    "flag": "https://media.istockphoto.com/id/1439220831/photo/flag-of-south-korea-on-rough-corrugated-striped-paper.webp?b=1&s=170667a&w=0&k=20&c=b0H9LVkufUAsJwAzRmO4xcp_bWPeU2oqtdHa0C6a-DM=",
     "regionalBlocs": [],
     "cioc": "KOR"
   },
@@ -12307,7 +12307,7 @@
       "hr": "Južni Sudan",
       "fa": "سودان جنوبی"
     },
-    "flag": "https://restcountries.eu/data/ssd.svg",
+    "flag": "https://media.istockphoto.com/id/652175888/photo/flag-of-south-sudan.webp?b=1&s=170667a&w=0&k=20&c=WqIH-_0P9PygqeoBHWmHOCU6h5pkK2H51nLZhvLYfhE=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -12364,7 +12364,7 @@
       "hr": "Španjolska",
       "fa": "اسپانیا"
     },
-    "flag": "https://restcountries.eu/data/esp.svg",
+    "flag": "https://media.istockphoto.com/id/177389905/photo/spanish-flag.webp?b=1&s=170667a&w=0&k=20&c=5HqMgqHNuZXZCkI97G_ds4t04kvxxrbYmHlK6YLWVTg=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -12427,7 +12427,7 @@
       "hr": "Šri Lanka",
       "fa": "سری‌لانکا"
     },
-    "flag": "https://restcountries.eu/data/lka.svg",
+    "flag": "https://media.istockphoto.com/id/181143566/photo/flag-of-sri-lanka.webp?b=1&s=170667a&w=0&k=20&c=DrTDhL1XVntXIWz6E2kvstYURXRdzX6HBD5UDVzBoRE=",
     "regionalBlocs": [
       {
         "acronym": "SAARC",
@@ -12486,7 +12486,7 @@
       "hr": "Sudan",
       "fa": "سودان"
     },
-    "flag": "https://restcountries.eu/data/sdn.svg",
+    "flag": "https://media.istockphoto.com/id/1180438379/photo/sudan-flag.webp?b=1&s=170667a&w=0&k=20&c=oKFdlRS_yPpwS17QAQiHt6vodNcEpQCjSMdW45XSX0A=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -12561,7 +12561,7 @@
       "hr": "Surinam",
       "fa": "سورینام"
     },
-    "flag": "https://restcountries.eu/data/sur.svg",
+    "flag": "https://media.istockphoto.com/id/1450115655/photo/flag-of-suriname.webp?b=1&s=170667a&w=0&k=20&c=Sb_v1_viaAMazlRgfMw_3FdrBtzxXmYAZk8iVphPYqo=",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -12629,7 +12629,7 @@
       "hr": "Svalbard i Jan Mayen",
       "fa": "سوالبارد و یان ماین"
     },
-    "flag": "https://restcountries.eu/data/sjm.svg",
+    "flag": "https://media.istockphoto.com/id/1461577890/photo/3d-illustration-of-a-svalbard-and-jan-mayen-flag-realistic-waving-fabric-flag.webp?b=1&s=170667a&w=0&k=20&c=f55hFltWsJ0pZsIPr6oLGMP684YKYnUN25T6nRj-_EI=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -12686,7 +12686,7 @@
       "hr": "Svazi",
       "fa": "سوازیلند"
     },
-    "flag": "https://restcountries.eu/data/swz.svg",
+    "flag": "https://media.istockphoto.com/id/1180438564/photo/swaziland-flag.webp?b=1&s=170667a&w=0&k=20&c=y6a6VVH4RE3hgbzVxh4UPyoEzpwb6-KJwxTLPD55RGU=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -12743,7 +12743,7 @@
       "hr": "Švedska",
       "fa": "سوئد"
     },
-    "flag": "https://restcountries.eu/data/swe.svg",
+    "flag": "https://media.istockphoto.com/id/491607783/photo/flag-of-sweden.webp?b=1&s=170667a&w=0&k=20&c=e50a59PWPfUtffB5R5-WnvqG5vLIWwe2a19L8OM9018=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -12813,7 +12813,7 @@
       "hr": "Švicarska",
       "fa": "سوئیس"
     },
-    "flag": "https://restcountries.eu/data/che.svg",
+    "flag": "https://media.istockphoto.com/id/508516479/photo/switzerlands-flag.webp?b=1&s=170667a&w=0&k=20&c=sJQpS6aDecAwLy_UqwOf6m0XL2-PLMEIg2PM9KZ1MtI=",
     "regionalBlocs": [
       {
         "acronym": "EFTA",
@@ -12868,7 +12868,7 @@
       "hr": "Sirija",
       "fa": "سوریه"
     },
-    "flag": "https://restcountries.eu/data/syr.svg",
+    "flag": "https://media.istockphoto.com/id/1445013013/photo/render-of-the-syria-flag-flutters-in-the-wind-close-up-the-national-flag-of-syria-in-4k.webp?b=1&s=170667a&w=0&k=20&c=ipQO-32XJhZ6s1u3DKPQab3OVFVSR9sJBLDQm0JSPmU=",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -12931,7 +12931,7 @@
       "hr": "Tajvan",
       "fa": "تایوان"
     },
-    "flag": "https://restcountries.eu/data/twn.svg",
+    "flag": "https://media.istockphoto.com/id/186883093/photo/taiwan-flag.webp?b=1&s=170667a&w=0&k=20&c=ggnlAgGH9lI0qiEifWGOLwi4t1FGyIs95ff8y8p3aq4=",
     "regionalBlocs": [],
     "cioc": "TPE"
   },
@@ -12989,7 +12989,7 @@
       "hr": "Tađikistan",
       "fa": "تاجیکستان"
     },
-    "flag": "https://restcountries.eu/data/tjk.svg",
+    "flag": "https://media.istockphoto.com/id/1440786249/photo/tajikistan-flag-on-the-flagpole.webp?b=1&s=170667a&w=0&k=20&c=kf0y2LM77HUycHM8b___y4a_HMY-XscK6D2Wz6KfLIE=",
     "regionalBlocs": [],
     "cioc": "TJK"
   },
@@ -13045,7 +13045,7 @@
       "hr": "Tanzanija",
       "fa": "تانزانیا"
     },
-    "flag": "https://restcountries.eu/data/tza.svg",
+    "flag": "https://media.istockphoto.com/id/1494637288/photo/realistic-tanzania-flag.webp?b=1&s=170667a&w=0&k=20&c=EQpxNEL1F-Tt398RKnVJE1pkH1R-NVf-tSQWB-Lwt8Y=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -13109,7 +13109,7 @@
       "hr": "Tajland",
       "fa": "تایلند"
     },
-    "flag": "https://restcountries.eu/data/tha.svg",
+    "flag": "https://media.istockphoto.com/id/655893172/photo/thailand-flag.webp?b=1&s=170667a&w=0&k=20&c=4ZIq28tYNiWnEfsQyZa-UhPR3HapQz9oXtSbhC3fZs8=",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
@@ -13169,7 +13169,7 @@
       "hr": "Istočni Timor",
       "fa": "تیمور شرقی"
     },
-    "flag": "https://restcountries.eu/data/tls.svg",
+    "flag": "https://media.istockphoto.com/id/999499986/photo/east-timor-flag-waving-in-the-wind.webp?b=1&s=170667a&w=0&k=20&c=mCRUVjqVlaAcI77ccnwJZXv6EmJf3mIxjbUlwdELpbE=",
     "regionalBlocs": [],
     "cioc": "TLS"
   },
@@ -13220,7 +13220,7 @@
       "hr": "Togo",
       "fa": "توگو"
     },
-    "flag": "https://restcountries.eu/data/tgo.svg",
+    "flag": "https://media.istockphoto.com/id/464650402/photo/togo-flag.webp?b=1&s=170667a&w=0&k=20&c=eFQKwFSz6sV7vJQdhhWtRwHTOufPGFcXx19D5WaREcg=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -13279,7 +13279,7 @@
       "hr": "Tokelau",
       "fa": "توکلائو"
     },
-    "flag": "https://restcountries.eu/data/tkl.svg",
+    "flag": "https://media.istockphoto.com/id/940327438/photo/tokelau-flag-in-a-blue-sky.webp?b=1&s=170667a&w=0&k=20&c=V86k3uoZnIc0I-ORiQicYPNm0LztR8hPqx5Hp-NHvg4=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -13329,7 +13329,7 @@
       "hr": "Tonga",
       "fa": "تونگا"
     },
-    "flag": "https://restcountries.eu/data/ton.svg",
+    "flag": "https://media.istockphoto.com/id/182843734/photo/tonga-flag.webp?b=1&s=170667a&w=0&k=20&c=Ap3xg9q2hm0ARdRJuXj_eXx9QvA2i8u4EXmCRz_FD6E=",
     "regionalBlocs": [],
     "cioc": "TGA"
   },
@@ -13375,7 +13375,7 @@
       "hr": "Trinidad i Tobago",
       "fa": "ترینیداد و توباگو"
     },
-    "flag": "https://restcountries.eu/data/tto.svg",
+    "flag": "https://media.istockphoto.com/id/1180612937/photo/trinidad-and-tobago-flag.webp?b=1&s=170667a&w=0&k=20&c=-Th_EEuN_fyaCQ1jiT1XWMKxBhJ9vtuLYQRyZpadNu4=",
     "regionalBlocs": [
       {
         "acronym": "CARICOM",
@@ -13436,7 +13436,7 @@
       "hr": "Tunis",
       "fa": "تونس"
     },
-    "flag": "https://restcountries.eu/data/tun.svg",
+    "flag": "https://media.istockphoto.com/id/1492285202/photo/tunisian-flag.webp?b=1&s=170667a&w=0&k=20&c=sEJ_EQalaMw8Od4p7HG-7lfupKc9mpFz9O-mMWhsevA=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -13508,7 +13508,7 @@
       "hr": "Turska",
       "fa": "ترکیه"
     },
-    "flag": "https://restcountries.eu/data/tur.svg",
+    "flag": "https://media.istockphoto.com/id/1126081130/photo/turkey-flag.webp?b=1&s=170667a&w=0&k=20&c=ku9cJxcwqfwbW2Hf8RKo2VljyZV52yUWSo53wh1NVRQ=",
     "regionalBlocs": [],
     "cioc": "TUR"
   },
@@ -13560,7 +13560,7 @@
       "hr": "Turkmenistan",
       "fa": "ترکمنستان"
     },
-    "flag": "https://restcountries.eu/data/tkm.svg",
+    "flag": "https://media.istockphoto.com/id/1484127052/photo/flag-of-turkmenistan.webp?b=1&s=170667a&w=0&k=20&c=srIzdA-8l24KElM5z3zA_wapZfdDK-AWCaWUzKifZ5U=",
     "regionalBlocs": [],
     "cioc": "TKM"
   },
@@ -13606,7 +13606,7 @@
       "hr": "Otoci Turks i Caicos",
       "fa": "جزایر تورکس و کایکوس"
     },
-    "flag": "https://restcountries.eu/data/tca.svg",
+    "flag": "https://media.istockphoto.com/id/956259674/photo/flagof-the-turks-and-caicos-islands.webp?b=1&s=170667a&w=0&k=20&c=KG44DFwT8982-sw9QOP-tjwgJjUeae2C9o5jyYgN_ig=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -13653,7 +13653,7 @@
       "hr": "Tuvalu",
       "fa": "تووالو"
     },
-    "flag": "https://restcountries.eu/data/tuv.svg",
+    "flag": "https://media.istockphoto.com/id/1484127017/photo/flag-of-tuvalu.webp?b=1&s=170667a&w=0&k=20&c=D49XY7axysFzOMwZ0WfiG51U5IXxFaP-4RJQIcGgriU=",
     "regionalBlocs": [],
     "cioc": "TUV"
   },
@@ -13705,7 +13705,7 @@
       "hr": "Uganda",
       "fa": "اوگاندا"
     },
-    "flag": "https://restcountries.eu/data/uga.svg",
+    "flag": "https://media.istockphoto.com/id/653167512/photo/flag-of-uganda.webp?b=1&s=170667a&w=0&k=20&c=5jSnZK_NpSS7uL--QQ1eOxC6iQmv5VbaRl7FhvR0IbA=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -13764,7 +13764,7 @@
       "hr": "Ukrajina",
       "fa": "وکراین"
     },
-    "flag": "https://restcountries.eu/data/ukr.svg",
+    "flag": "https://media.istockphoto.com/id/163641275/photo/close-up-ukranian-flag.webp?b=1&s=170667a&w=0&k=20&c=mODV9hyumZ7b6OIAfF_xz4911J6uibOX6jPwsUce7bQ=",
     "regionalBlocs": [],
     "cioc": "UKR"
   },
@@ -13810,7 +13810,7 @@
       "hr": "Ujedinjeni Arapski Emirati",
       "fa": "امارات متحده عربی"
     },
-    "flag": "https://restcountries.eu/data/are.svg",
+    "flag": "https://media.istockphoto.com/id/1456706980/photo/united-arab-emirates-flag-wave-highly-detailed-realistic-3d-rendering.webp?b=1&s=170667a&w=0&k=20&c=a-0mfuR8vbc2STHKqZUNWD7l6LvypajtPRDNKpfCMLE=",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -13875,7 +13875,7 @@
       "hr": "Ujedinjeno Kraljevstvo",
       "fa": "بریتانیای کبیر و ایرلند شمالی"
     },
-    "flag": "https://restcountries.eu/data/gbr.svg",
+    "flag": "https://media.istockphoto.com/id/1217765834/photo/flag-of-united-kingdom-blowing-in-the-wind.webp?b=1&s=170667a&w=0&k=20&c=GXXWJLCwj6QuRZh0p6xSEVc4eCTr6SZmkGTxXb8t__A=",
     "regionalBlocs": [
       {
         "acronym": "EU",
@@ -13940,7 +13940,7 @@
       "hr": "Sjedinjene Američke Države",
       "fa": "ایالات متحده آمریکا"
     },
-    "flag": "https://restcountries.eu/data/usa.svg",
+    "flag": "https://media.istockphoto.com/id/524055319/photo/flag-of-the-united-states.webp?b=1&s=170667a&w=0&k=20&c=ByTMu_9AzkVhXFhL-auECFFtL0oZs-GSy3TLuPyme5Q=",
     "regionalBlocs": [
       {
         "acronym": "NAFTA",
@@ -13998,7 +13998,7 @@
       "hr": "Urugvaj",
       "fa": "اروگوئه"
     },
-    "flag": "https://restcountries.eu/data/ury.svg",
+    "flag": "https://media.istockphoto.com/id/182780610/photo/uruguay-flag.webp?b=1&s=170667a&w=0&k=20&c=ViQCIpkvSW-t6FZ6s8brjkLtfo-rtozV7Zo8ZHtrZxA=",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -14067,7 +14067,7 @@
       "hr": "Uzbekistan",
       "fa": "ازبکستان"
     },
-    "flag": "https://restcountries.eu/data/uzb.svg",
+    "flag": "https://media.istockphoto.com/id/1456707670/photo/uzbekistan-flag-wave-highly-detailed-realistic-3d-rendering.webp?b=1&s=170667a&w=0&k=20&c=960OfooOZ--3qAnCXfkYoFZci8eG2E2CFrhMsxApBts=",
     "regionalBlocs": [],
     "cioc": "UZB"
   },
@@ -14128,7 +14128,7 @@
       "hr": "Vanuatu",
       "fa": "وانواتو"
     },
-    "flag": "https://restcountries.eu/data/vut.svg",
+    "flag": "https://media.istockphoto.com/id/1445954586/photo/vanuatu-3d-flag.webp?b=1&s=170667a&w=0&k=20&c=S0FpILHbR81S2FMdvLZmyxC9MQ6jV5B331IStndD250=",
     "regionalBlocs": [],
     "cioc": "VAN"
   },
@@ -14178,7 +14178,7 @@
       "hr": "Venezuela",
       "fa": "ونزوئلا"
     },
-    "flag": "https://restcountries.eu/data/ven.svg",
+    "flag": "https://media.istockphoto.com/id/639704488/photo/flag-of-venezuela.webp?b=1&s=170667a&w=0&k=20&c=J6HlbKJuRUf0REvb-4l6275oJC4PIf19MW8ewfNdM_w=",
     "regionalBlocs": [
       {
         "acronym": "USAN",
@@ -14238,7 +14238,7 @@
       "hr": "Vijetnam",
       "fa": "ویتنام"
     },
-    "flag": "https://restcountries.eu/data/vnm.svg",
+    "flag": "https://media.istockphoto.com/id/922923276/photo/flag-of-vietnam.webp?b=1&s=170667a&w=0&k=20&c=up8U3iOBUJpFoLYJRw7RIjkkKzNgZvHqRL9aY0YDvjs=",
     "regionalBlocs": [
       {
         "acronym": "ASEAN",
@@ -14293,7 +14293,7 @@
       "hr": "Wallis i Fortuna",
       "fa": "والیس و فوتونا"
     },
-    "flag": "https://restcountries.eu/data/wlf.svg",
+    "flag": "https://media.istockphoto.com/id/1085924832/photo/flag-of-wallis-and-futuna-waving-in-the-wind-against-deep-blue-sky.webp?b=1&s=170667a&w=0&k=20&c=AsYrBh1JFyQlMvhFq_deIK-89DyIV2bqHbxjUw1E_gc=",
     "regionalBlocs": [],
     "cioc": ""
   },
@@ -14340,7 +14340,7 @@
       "hr": "Zapadna Sahara",
       "fa": "جمهوری دموکراتیک عربی صحرا"
     },
-    "flag": "https://restcountries.eu/data/esh.svg",
+    "flag": "https://media.istockphoto.com/id/1181808956/photo/western-sahara-flag-depth-of-field.webp?b=1&s=170667a&w=0&k=20&c=93Z3SvhDFDR2k_Of6AC_0RafHChaMjsf5lhkhUD2RZc=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -14397,7 +14397,7 @@
       "hr": "Jemen",
       "fa": "یمن"
     },
-    "flag": "https://restcountries.eu/data/yem.svg",
+    "flag": "https://media.istockphoto.com/id/869163700/photo/the-flag-of-yemen.webp?b=1&s=170667a&w=0&k=20&c=JuvOYqESca-P9I_FggAdr6LxkN-M1mtDxo9_AbquV8I=",
     "regionalBlocs": [
       {
         "acronym": "AL",
@@ -14452,7 +14452,7 @@
       "hr": "Zambija",
       "fa": "زامبیا"
     },
-    "flag": "https://restcountries.eu/data/zmb.svg",
+    "flag": "https://media.istockphoto.com/id/1663012269/photo/zambia-national-flag-on-white-background.webp?b=1&s=170667a&w=0&k=20&c=OZRdyUdJN8AK1hN-1Z47Mfdy7yD6opllXPJUv3MQrJQ=",
     "regionalBlocs": [
       {
         "acronym": "AU",
@@ -14531,7 +14531,7 @@
       "hr": "Zimbabve",
       "fa": "زیمباوه"
     },
-    "flag": "https://restcountries.eu/data/zwe.svg",
+    "flag": "https://media.istockphoto.com/id/1472112405/photo/close-up-view-of-the-zimbabwe-national-flag-waving-in-the-wind.webp?b=1&s=170667a&w=0&k=20&c=tfLZJjWwZlFoMQIn_jK0nmQM4iac0EloQMuGuQSlKd0=",
     "regionalBlocs": [
       {
         "acronym": "AU",
