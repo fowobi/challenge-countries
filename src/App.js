@@ -1,9 +1,6 @@
 import React from "react";
 import CountryList from "./component/CountryList";
 
-
-
-
 const App = () => {
   return (
     <div>
